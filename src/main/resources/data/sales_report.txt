@@ -1,0 +1,1253 @@
+Total Sales Amount: 2305320.0
+----------------------------------------------------------------
+Total Sales Quantity: 343538.0
+----------------------------------------------------------------
+Monthly Sales Trends:
+
+Month
+2015-12      9015.0
+2016-01     84543.0
+2016-02    154082.0
+2016-03    323226.0
+2016-04    552501.0
+2016-05    650335.0
+2016-06    531618.0
+Name: TotalSaleAmount, dtype: float64
+----------------------------------------------------------------
+Best Selling Items by quantity:
+
+ItemDescription
+golf cart 1/2 18 holes                          22135.0
+we green fee                                    18313.0
+key deposit                                     17538.0
+golf cart 1/2 9 hole                            14407.0
+senior green fee                                14373.0
+wd green fee                                    13216.0
+key refund                                      11098.0
+hot dog                                          8727.0
+adult annual green fee                           8507.0
+golf cart annual fee                             8333.0
+range balls                                      7166.0
+gatorade                                         7051.0
+matinee green fee                                6386.0
+beer                                             6332.0
+large drink                                      5978.0
+golf cart 1/2 18 holes we                        5298.0
+wd twilight green fee                            4914.0
+candy                                            4914.0
+20oz bottle                                      4283.0
+we annual green fee                              4003.0
+crackers                                         3984.0
+9 hole 1/2 cart                                  3944.0
+20 oz soft/propel/gatorades                      3764.0
+bottled soda/ gatorade                           3737.0
+misc merchandise                                 3669.0
+bottled water                                    3370.0
+chip                                             3336.0
+18 hole 1/2 cart                                 3244.0
+twilight green fee                               3226.0
+small drink                                      3206.0
+regular beer $2.25                               3055.0
+golf cart tee pass 1/2 18 hole                   2723.0
+regular 6pack $11.00                             2556.0
+wd sr. green fee7-2pm                            2476.0
+winter we greenfee                               2389.0
+beer 12oz                                        2335.0
+wd senior green fee                              2313.0
+trail fee                                        2306.0
+we twilight green fee                            2236.0
+cheese burger                                    2088.0
+chip / candy / peanuts / granola / fruit         2079.0
+winter twilight                                  2043.0
+bratwurst                                        1991.0
+reg 9 cart                                       1861.0
+misc food item                                   1773.0
+bottled drink                                    1719.0
+beer 6pack $12.50                                1703.0
+junior annual green fee                          1682.0
+miller lite $2.25                                1682.0
+bottled soda                                     1672.0
+winter senior green fee                          1645.0
+brat / polish / hot mama /sd                     1610.0
+aquafina                                         1578.0
+balls                                            1534.0
+junior green fee                                 1393.0
+coffee                                           1381.0
+beer $ 2.25 - domestic                           1243.0
+tees $1.00                                       1207.0
+beer - 6pack 12oz                                1179.0
+chip $1.50                                       1157.0
+ice water                                        1097.0
+candy bars                                       1077.0
+wd annual green fee                              1027.0
+miller lite 6pack $11.25                         1023.0
+winter we green fee                               972.0
+medium drink                                      966.0
+20 oz aquafina water                              953.0
+range balls- large                                912.0
+matinee green fee 4-6 pm                          855.0
+member 9 1/2 cart $7.00                           817.0
+coffee lg                                         813.0
+coors $2.00                                       813.0
+beer 6 pk $11.00 - domestic/rolling rock          746.0
+drink - medium                                    746.0
+winter weekend                                    732.0
+range - large bucket                              700.0
+pullcart                                          634.0
+tees - 15pack/divot tool                          630.0
+range balls- small                                624.0
+weekend 9 hole cart                               619.0
+chicken salad                                     604.0
+beer3.25 stella& gooseipa& cherry cola            594.0
+member 18 1/2 cart $12.00                         592.0
+danish                                            589.0
+winter wd green fee                               585.0
+fountain - large                                  580.0
+$0.25 extra                                       577.0
+wd annual green fee 5 day                         571.0
+coffee sm                                         535.0
+drink - regular                                   527.0
+beer 16oz                                         513.0
+chip $1.00                                        513.0
+beer $3.00 imp/16oz btl/rita's                    500.0
+beer 6pack                                        497.0
+youth course free (below 13)                      490.0
+coors light 6pack $11                             487.0
+sausage                                           462.0
+cookies / muffins/ donuts                         456.0
+misc food $1                                      416.0
+bratwurst / polish                                416.0
+bud products $2.25                                415.0
+range - small bucket                              413.0
+reg 18 cart                                       408.0
+hamburger                                         407.0
+staff candy                                       402.0
+reserved tee times                                399.0
+tees small bag 15 pk                              397.0
+tuna salad                                        392.0
+bottled beer or pints $2.75                       374.0
+range - medium bucket                             365.0
+coffee reg. size 12 oz                            364.0
+beer - coors                                      361.0
+coors 6pack $10.00                                356.0
+gloves                                            325.0
+youth course adult                                324.0
+misc. food $6.00                                  321.0
+we annual green fee 7 day                         319.0
+peanuts                                           312.0
+beer special $1.75                                309.0
+winter senior wd green fee                        297.0
+logo ball                                         297.0
+heineken                                          291.0
+beer - 16oz                                       284.0
+premium $2.65                                     282.0
+beer $ 3.75 - 25oz                                274.0
+2nd nine cart $6.00                               268.0
+spikes                                            266.0
+weekend 18 hole cart                              258.0
+6 pack special $9.50                              256.0
+pinnacle logo jar                                 256.0
+gift card add value                               254.0
+ice water large                                   253.0
+golf cart spectator -  9 holes                    244.0
+chip - $1                                         243.0
+misc. merchandise                                 241.0
+pull cart rental                                  241.0
+cup of water - large                              238.0
+pull cart                                         237.0
+par 3 nine hole cart                              234.0
+coors light pint $2.75                            232.0
+beer league 12oz - $2                             230.0
+16 oz coors / miller $3.00                        227.0
+extra holes cart                                  221.0
+chili dog                                         214.0
+cliff or power bar                                210.0
+beer $ 2.75 ultra/lime/rolling rock               209.0
+beer premium                                      207.0
+$5.00 special                                     205.0
+smoked sausage                                    201.0
+mich ultra $2.50                                  199.0
+chicken or tuna salad sandwich                    198.0
+granola bars                                      198.0
+fountain - small                                  192.0
+cup of water - sm or med.                         191.0
+golf cart spectator - 18 holes                    191.0
+special drink price                               190.0
+misc. food item                                   189.0
+misc. merch                                       188.0
+beer 6 pk $8.00 - coors                           187.0
+fountain - medium                                 186.0
+outing food                                       185.0
+additional holes                                  184.0
+tees                                              181.0
+amber bock                                        181.0
+sausage biscuit                                   180.0
+snyders pretzel pieces                            176.0
+winter weekdays                                   175.0
+turkey and cheese                                 173.0
+coors light $2.25                                 170.0
+cart add on $6.00                                 159.0
+cakes                                             157.0
+pretzels                                          151.0
+misc. cart fee                                    148.0
+winter  twilight green fee                        147.0
+energy drink                                      146.0
+nature valley                                     146.0
+cart special                                      144.0
+ice cream $2.00                                   144.0
+coors grande                                      142.0
+ham and cheese                                    140.0
+$6.00 food and bev. tickets                       140.0
+cheese burger or hamburger                        137.0
+youth course jr (13 - 18)                         137.0
+sausage or bacon egg sandwich                     136.0
+9 hole twilight cart                              136.0
+misc food $3                                      131.0
+southern indianasrs $23.00                        131.0
+bologna w/ cheese                                 130.0
+misc food $5                                      130.0
+hot sausage                                       125.0
+bar b que                                         125.0
+miller lite/ coors lite (pint)                    124.0
+golf cart tee time book                           123.0
+can - drink                                       123.0
+raincheck                                         122.0
+rental clubs                                      120.0
+turkey w/cheese                                   120.0
+hot chocolate                                     119.0
+combos                                            118.0
+dos equis                                         115.0
+16 oz ultra $3.00                                 115.0
+beer league 12oz - 6pack - $10                    112.0
+banana                                            111.0
+arnold palmer                                     109.0
+misc food $4                                      109.0
+stella artois beer                                109.0
+polish sausage                                    107.0
+no sale                                           106.0
+a titleist logo balls                             106.0
+bologna                                           104.0
+egg salad sandwich                                101.0
+rider fee $5.00                                   100.0
+coffee large 16 oz                                 98.0
+pull cart 9                                        96.0
+leinekugel beer                                    95.0
+chip - $0.75                                       94.0
+pinnacle rush 3pack                                94.0
+pinnacle rush & soft slv.                          93.0
+premium 6pack $13.00                               91.0
+misc drink                                         91.0
+tees $0.75                                         91.0
+golf cart $12.00 cards                             86.0
+beer stella& goose lsl. cherry cola                84.0
+golf cart st stevens -  9 holes                    84.0
+can soft drink                                     82.0
+footjoy weathersof glove                           79.0
+hornungs tees 30ct /50ct                           79.0
+footgolf ball rental                               77.0
+turkey or ham sandwich                             76.0
+misc. merchandise $10                              75.0
+youth course sr                                    75.0
+mich ultra 6pack $12.50                            74.0
+beer 6 pk/ imp /16 ozbtl/ rita's/ corona/hei       74.0
+sobe vitamin water                                 74.0
+cart add on $6.50 we                               74.0
+ice cream $2.50                                    73.0
+beer 6 pk ultra/ lime                              73.0
+bud light pint                                     72.0
+pimiento cheese                                    71.0
+hot dog with chili                                 70.0
+wd junior annual                                   70.0
+misc. food guest day                               69.0
+turkey or ham w/cheese                             68.0
+nutri-grain                                        68.0
+misc food / drink                                  67.0
+cup ice or water                                   66.0
+golf discount book                                 64.0
+pinnacle soft 3pack                                64.0
+outing hot key                                     64.0
+16 oz coors / miller  6pack $15.00                 63.0
+discount book-trail pass                           62.0
+sausage egg & cheese                               61.0
+golf cart st stevens -  18 holes                   61.0
+half sandwich                                      60.0
+misc. food $10.00                                  59.0
+16oz or 12 oz kick starts only $2.50               58.0
+ice cream $2.25                                    58.0
+misc. rental clubs set                             58.0
+titleist glove                                     57.0
+tees - 50pack                                      57.0
+titleist permasoft glove                           57.0
+ball markers 3 for.25 cents                        56.0
+juice/ sobe lifewater                              55.0
+sausage egg cheese                                 54.0
+club repair                                        54.0
+matinee 9 hole cart                                53.0
+club rental                                        51.0
+sausage or bacon biscuit                           51.0
+kick start energy drink                            51.0
+special price 6-pack                               51.0
+titleist pro v1 sleeve                             50.0
+titleist pro v 1x sleeve                           46.0
+pinnacle rush & soft dz                            46.0
+sierra nevada                                      46.0
+misc food item $12                                 45.0
+oatmeal cream pies                                 45.0
+ham w/cheese                                       43.0
+extra 9 cart $7.00                                 43.0
+chicken salad basket                               42.0
+tee time seniors                                   41.0
+titleist nxt tour s sleeve                         41.0
+pinnacle soft/rush (5 sleeves)                     41.0
+pull cart 18                                       41.0
+ice cream $1.50                                    41.0
+matinee 18 hole cart                               40.0
+champ fly tee                                      40.0
+titleist dt trusoft sleeve                         40.0
+meat loaf                                          39.0
+beer 16oz - 6pack                                  39.0
+beer 6pack 16oz                                    38.0
+microfiber greens towel                            38.0
+hornungs golf tees                                 37.0
+hats                                               37.0
+misc club repair & grips                           37.0
+a titleist logo balls $10                          37.0
+metro parks golf discount book                     36.0
+sheehan family                                     36.0
+ice                                                36.0
+ice cream $1.25                                    36.0
+hot dog with cheese                                36.0
+titleist pro v1 or x slv 2015                      35.0
+hothands                                           35.0
+titleist nxt tour slv                              35.0
+footgolf weekday senior/jr/twilight                34.0
+can drink -12oz                                    33.0
+puma tour glove                                    31.0
+bologna w cheese                                   31.0
+miller lite/ coors lite (pint) 6pack               30.0
+seneca towel                                       30.0
+horned legend logo shirts                          30.0
+sausage and egg biscuit                            30.0
+stella artois                                      29.0
+cigars shawnee logo                                29.0
+club sets                                          28.0
+clubhouse damage deposit                           27.0
+maintenance misc. food                             27.0
+kickstart                                          27.0
+wd discount book green fee                         27.0
+footgolf weekend twilight                          26.0
+clubhouse rental                                   26.0
+misc. cart                                         26.0
+coffee - small                                     26.0
+footgolf weekend                                   25.0
+$1.50 16 oz drink                                  25.0
+gum                                                25.0
+tee time golf pass green fee                       24.0
+hot dog with chili & cheese                        23.0
+ice cream                                          23.0
+titleist nxt tour sleeve                           22.0
+pinnacle gold slv                                  22.0
+misc food $9                                       22.0
+beer premium - 6pack 12oz                          22.0
+pride professional tee 100ct &75ct                 21.0
+amp/rockstar                                       21.0
+heineken/corona 6pack                              21.0
+footgolf weekday regular                           21.0
+coffee - large                                     20.0
+tylenol 2 pks                                      20.0
+footjoy prodry socks 2pack                         20.0
+titleist velocity sleeve                           20.0
+golf cart rider fee                                19.0
+16oz amp only                                      19.0
+bud products 6pack $11                             19.0
+beer 6pack heineken                                19.0
+titleist velocity golf ball dozen                  18.0
+we discount book green fee                         18.0
+titleist velocity slv                              18.0
+metro parks 2016 discount golf book                18.0
+maxx & epochf sunglasses                           17.0
+callaway extreme 2 pk. glove                       17.0
+specialty 6pack $14.50                             17.0
+coors light pint 6-pack $14.75                     17.0
+hot dog w cheese                                   17.0
+bologna and cheese                                 16.0
+spectator cart $5.00                               16.0
+corona/corona light                                16.0
+titleist dt  solo slv                              15.0
+bionic performance glove                           15.0
+titleist dt trusoft                                14.0
+family golf fee                                    14.0
+titleist  cap fitted                               14.0
+trial set (titleist rent set)                      14.0
+winn dri-tac ladies                                14.0
+titleist pro v1 or x -dz 2016                      14.0
+family golf cart fee                               14.0
+jacket                                             14.0
+16 oz ultra 6pack $15.00                           13.0
+champ stinger spikes                               13.0
+super stroke mid slim 2.0/slim 3.0/fatso 5.0       13.0
+.25 candy                                          13.0
+titleist visor women                               13.0
+titleist pro v1x dozen                             13.0
+turkey                                             12.0
+family we special after 4:30pm                     12.0
+shawnee logo divot tool                            12.0
+titleist pro v1 dozen                              12.0
+$25 holiday special                                12.0
+spectator cart $10.00                              12.0
+bridgestone e seris                                12.0
+dbl cheese burger                                  11.0
+bionic golf glove classic                          11.0
+kodiak winter gloves                               11.0
+seneca hat clip                                    10.0
+southern in srs $19.00                             10.0
+shoes                                              10.0
+sale long sleeve jacket                            10.0
+groove tube                                        10.0
+muffins                                            10.0
+titleist dt  solo - dz                             10.0
+footjoy weathersof 2pack gloves                    10.0
+$14.00 cart fee                                    10.0
+sr/twilight 18 cart                                 9.0
+footgolf matinee 4-6                                9.0
+miscellaneous  - golf clubs                         9.0
+titleist collegiate fitted 2015                     9.0
+titleist cap shawnee logo                           9.0
+titleist nxt tour dozen                             9.0
+cigarettes                                          9.0
+$4 food special 1                                   9.0
+michelob ultra                                      9.0
+lime-a-rita                                         8.0
+titleist velocity- dz                               8.0
+titleist uk/ul hat                                  8.0
+range summer special                                8.0
+michelob ultra 6pack                                8.0
+berrmuda sands logo shirt                           8.0
+titleist nxt tour s dozen                           8.0
+beer 6pack stella                                   8.0
+beer 6pack dos equis                                8.0
+golf pride cp2 pro/ super tack midsize              8.0
+nike dri-fit no show socks                          8.0
+golf pride tour velvet jumbo grip                   8.0
+drink - refill                                      8.0
+taylor made caps                                    8.0
+tee time winter                                     8.0
+puma caps                                           7.0
+raincheck redeemed                                  7.0
+tee time weekday 12-4 pm                            7.0
+pork loin sandwich                                  7.0
+tees $0.50                                          6.0
+handicap fee                                        6.0
+ham sandwich                                        6.0
+footjoy shirt                                       6.0
+titleist nxt tour   or s- dz                        6.0
+cup ice water                                       6.0
+extra cheese                                        6.0
+nike air rivel 4 new                                6.0
+par 3 18 hole cart                                  6.0
+$2.00 beer                                          6.0
+callaway cap adj                                    6.0
+coors light 6pack special                           6.0
+titleist bond tech hat                              5.0
+sale caps                                           5.0
+titleist ear bands                                  5.0
+ray cook putters                                    5.0
+nike all weather glove                              5.0
+nike explorer sl shoes                              5.0
+pride professional 4 inch tee                       5.0
+misc food $.30 or $.60                              5.0
+footjoy junior gloves                               5.0
+beer league 16oz - 6pack - $13                      5.0
+martini tee                                         5.0
+hornungs groove brush                               5.0
+titleist jersey hat                                 4.0
+titleist microfiber towel                           4.0
+footjoy comfort sof 3pack                           4.0
+titleist cubic mesh hat                             4.0
+miscellaneous  -men's apparel                       4.0
+nike fi impact sale                                 4.0
+titleist stadry hat                                 4.0
+titleist winter earmuffs                            4.0
+titleist  caps                                      4.0
+donuts                                              4.0
+gift certificate                                    4.0
+miscellaneous- merch.                               4.0
+ping caps                                           4.0
+champ pro soft brush                                4.0
+ball eagle retriever                                4.0
+callaway cg bucket hat                              4.0
+$10 6-pack special                                  4.0
+hornungs groove tube                                4.0
+-  9 holes                                          4.0
+winter gloves                                       4.0
+winter jr green fee                                 4.0
+$6.00 lunch special                                 4.0
+winn pro 1.60                                       3.0
+titleist velocity dozen                             3.0
+ping camo hat                                       3.0
+tees $1                                             3.0
+pb&j or cheese sandwich                             3.0
+tees-30pack                                         3.0
+guinness/stella 6pack                               3.0
+titleist beanie winter hat                          3.0
+nike mojo balls dbl. dozen                          3.0
+gift card                                           3.0
+misc cart rental                                    3.0
+titleist dt solo sleeve                             3.0
+nike air range wp shoes                             3.0
+titleist golf hat                                   3.0
+hornungs umbrella                                   3.0
+golfer's sun screen                                 3.0
+golfer's lips chap stick                            3.0
+titleist nxt tour s dozen (yellow)                  3.0
+winter jr fee                                       3.0
+ping diamond towel                                  3.0
+footjoy comfort sof socks(black)                    3.0
+titleist winter hat pom pom                         3.0
+titleist sm6 wedges                                 3.0
+winnpro 1.32 & 1.18 putter grip                     3.0
+towels                                              3.0
+new balance ladies minimus sports                   3.0
+ping shoe bag                                       3.0
+sale shawnee logo straw hat                         3.0
+range teaching basket                               3.0
+ping golf glove                                     3.0
+seneca logo hats                                    3.0
+star wars head cover                                3.0
+rain gear                                           3.0
+team golf millitary towel                           3.0
+egg sandwich                                        3.0
+sale monterey ladies tops                           3.0
+ping patch structured hat                           2.0
+titleist pompom hat                                 2.0
+monterey club men's polo                            2.0
+shawnee pepper dog                                  2.0
+golf pride tour wrap 2g blue/black                  2.0
+rain check cart                                     2.0
+pinnacle gold 15pack                                2.0
+miscellaneous  - golf balls                         2.0
+special order -clubs                                2.0
+family golf cart                                    2.0
+misc. food $8                                       2.0
+new balance minimus sport shoe                      2.0
+puma men's golf ace shoe                            2.0
+titleist tour performance hat                       2.0
+mikes hard lemonade                                 2.0
+team golf putter cover                              2.0
+footjoy ladies mproject shoes                       2.0
+2 for 20 gloves                                     2.0
+sofjoy glove                                        2.0
+cup                                                 2.0
+ping g25 structured hat                             2.0
+callaway chrome soft dz                             2.0
+rain hood clear pvc                                 2.0
+green fee special event                             2.0
+nike air rival lll sale                             2.0
+sale short sleeve windshirt                         2.0
+ping hat clips                                      2.0
+team golf headcover 3-pack                          2.0
+dbl hamburger                                       2.0
+deli sandwich                                       2.0
+can drink                                           2.0
+sale shawnee logo bucket                            2.0
+ping bonnie hat                                     2.0
+clubhouse rental - employee                         1.0
+footjoy shorts                                      1.0
+cheese burger double decker                         1.0
+grips never bend putter                             1.0
+socks                                               1.0
+footjoy rain gloves                                 1.0
+yoohoo                                              1.0
+callaway chev stand bag                             1.0
+dryjoys casuals golf shoes                          1.0
+gift cert / rain check cart                         1.0
+twist-off beer 6 pack $13                           1.0
+bionic glove                                        1.0
+rain check cart 18 issued                           1.0
+us kids golf glove                                  1.0
+us tour glove                                       1.0
+pure leaf tea                                       1.0
+champ spike pro wrench                              1.0
+maxx sunglasses                                     1.0
+comfort sof crew socks                              1.0
+range balls - large                                 1.0
+callaway sport hat                                  1.0
+majek sandals                                       1.0
+locker fee                                          1.0
+line m up ball marker                               1.0
+golf pride cp2 wrap (midsize)                       1.0
+titleistt hand warmer                               1.0
+golf shoes                                          1.0
+rain check cart 9 $6.00 issued                      1.0
+tom's chip                                          1.0
+powerbilt junior gloves                             1.0
+titleist winter hat striped                         1.0
+titleist needle point bucket hat                    1.0
+nike dri-fit  crew socks                            1.0
+ping lady sport visor                               1.0
+titleist contrast stitch hat                        1.0
+ping kp cap                                         1.0
+titleist cart mitts                                 1.0
+titleist cart bag 9.5                               1.0
+nike lunar empress ldies shoe                       1.0
+titleist bucket hat                                 1.0
+sun mountain thermal red                            1.0
+titleist back sack                                  1.0
+titleist aussie hat                                 1.0
+titleist 915 driver                                 1.0
+titleist 816 hybrid                                 1.0
+titleist 716 ap1 irons 4-uw                         1.0
+nyx kele sunglasses                                 1.0
+taylormade spiort stratus glove                     1.0
+odyssey rx white hot putter                         1.0
+2016 montery polo                                   1.0
+chip - $1.50                                        1.0
+cigar 8.90 romeo & julieta                          1.0
+pimento salad basket                                1.0
+soup                                                1.0
+regular outing                                      1.0
+ping tri fold towel                                 1.0
+power bilt drivers                                  1.0
+titleist visors                                     1.0
+footjoy m:project golf shoes 2015                   1.0
+titleist visor men                                  1.0
+footjoy m:project golf shoes                        1.0
+footjoy m-projects spikeless golf shoe              1.0
+misc food item $1.75                                1.0
+titleist umbrella                                   1.0
+footjoy junior shoes                                1.0
+titleist towel staff                                1.0
+titleist towel players                              1.0
+special order - mens apparel                        1.0
+titleist qmax hat                                   1.0
+footjoy hydrolite shoe                              1.0
+footjoy contour casual                              1.0
+footjoy comfort sof women                           1.0
+miscellaneous  -shoes                               1.0
+ping zing putter                                    1.0
+ping visor                                          1.0
+nan                                                 1.0
+master preview louis mcdonald                       0.0
+staff hamburgers                                    0.0
+staff dogs                                          0.0
+staff fee                                         -36.0
+Name: Quantity, dtype: float64
+----------------------------------------------------------------
+Best Selling Items by amount:
+
+ItemDescription
+golf cart 1/2 18 holes                          307993.0
+we green fee                                    285111.0
+wd green fee                                    175699.0
+senior green fee                                118219.0
+golf cart 1/2 9 hole                            115027.0
+golf cart annual fee                             83221.0
+matinee green fee                                75653.0
+misc merchandise                                 75652.0
+golf cart 1/2 18 holes we                        74086.0
+18 hole 1/2 cart                                 44420.0
+wd twilight green fee                            39775.0
+9 hole 1/2 cart                                  35490.0
+adult annual green fee                           32112.0
+golf cart tee pass 1/2 18 hole                   30375.0
+range balls                                      28650.0
+regular 6pack $11.00                             28116.0
+winter we greenfee                               27507.0
+twilight green fee                               26155.0
+key deposit                                      21496.0
+wd senior green fee                              20817.0
+beer 6pack $12.50                                20416.0
+wd sr. green fee7-2pm                            19808.0
+we twilight green fee                            18133.0
+hot dog                                          18015.0
+balls                                            16393.0
+reg 9 cart                                       15791.0
+we annual green fee                              15494.0
+gatorade                                         14102.0
+winter twilight                                  13448.0
+beer - 6pack 12oz                                12957.0
+beer                                             12676.0
+gift card add value                              11718.0
+large drink                                      11512.0
+junior green fee                                 11339.0
+miller lite 6pack $11.25                         11232.0
+winter senior green fee                          10904.0
+misc food item                                   10764.0
+winter we green fee                              10692.0
+matinee green fee 4-6 pm                         10260.0
+winter weekend                                    9506.0
+trail fee                                         9224.0
+20oz bottle                                       8566.0
+range balls- large                                8208.0
+beer 6 pk $11.00 - domestic/rolling rock          8206.0
+club sets                                         7761.0
+20 oz soft/propel/gatorades                       7528.0
+bottled soda/ gatorade                            7474.0
+cheese burger                                     7169.0
+member 18 1/2 cart $12.00                         7104.0
+clubhouse rental                                  6500.0
+regular beer $2.25                                6110.0
+winter wd green fee                               6041.0
+beer 6pack                                        5964.0
+member 9 1/2 cart $7.00                           5719.0
+misc. merch                                       5628.0
+range - large bucket                              5595.0
+reg 18 cart                                       5453.0
+a titleist logo balls                             5440.0
+clubhouse damage deposit                          5400.0
+coors light 6pack $11                             5347.0
+weekend 9 hole cart                               5008.0
+candy                                             4911.0
+brat / polish / hot mama /sd                      4830.0
+bratwurst                                         4818.0
+beer 12oz                                         4721.0
+misc. food $10.00                                 4556.0
+cart special                                      4479.0
+bottled water                                     4240.0
+gloves                                            4211.0
+misc food item $12                                3829.0
+golf cart spectator - 18 holes                    3820.0
+range balls- small                                3743.0
+coors 6pack $10.00                                3560.0
+bottled drink                                     3437.0
+miller lite $2.25                                 3364.0
+weekend 18 hole cart                              3364.0
+bottled soda                                      3344.0
+chip                                              3336.0
+small drink                                       3206.0
+southern indianasrs $23.00                        2972.0
+6 pack special $9.50                              2811.0
+youth course adult                                2592.0
+misc. merchandise                                 2506.0
+beer $ 2.25 - domestic                            2486.0
+golf cart spectator -  9 holes                    2425.0
+winter senior wd green fee                        2376.0
+miscellaneous  - golf clubs                       2308.0
+wd annual green fee 5 day                         2284.0
+misc. food $6.00                                  2210.0
+range - medium bucket                             2184.0
+outing hot key                                    2088.0
+misc. merchandise $10                             2083.0
+chip / candy / peanuts / granola / fruit          2079.0
+wd annual green fee                               2054.0
+range - small bucket                              2050.0
+chicken salad                                     2030.0
+winter weekdays                                   1925.0
+20 oz aquafina water                              1905.0
+beer 6 pk $8.00 - coors                           1870.0
+junior annual green fee                           1682.0
+pullcart                                          1631.0
+coors $2.00                                       1626.0
+2nd nine cart $6.00                               1608.0
+golf discount book                                1600.0
+aquafina                                          1597.0
+misc. cart fee                                    1552.0
+discount book-trail pass                          1550.0
+beer $3.00 imp/16oz btl/rita's                    1491.0
+beer 16oz                                         1457.0
+tuna salad                                        1409.0
+outing food                                       1398.0
+coffee                                            1381.0
+sausage                                           1336.0
+crackers                                          1333.0
+sheehan family                                    1296.0
+we annual green fee 7 day                         1276.0
+golf cart tee time book                           1230.0
+tees $1.00                                        1225.0
+extra holes cart                                  1208.0
+hamburger                                         1192.0
+premium 6pack $13.00                              1183.0
+par 3 nine hole cart                              1170.0
+fountain - large                                  1160.0
+chip $1.50                                        1157.0
+additional holes                                  1144.0
+beer league 12oz - 6pack - $10                    1120.0
+beer 6 pk/ imp /16 ozbtl/ rita's/ corona/hei      1110.0
+9 hole twilight cart                              1098.0
+candy bars                                        1077.0
+rental clubs                                      1053.0
+club repair                                       1051.0
+golf cart $12.00 cards                            1034.0
+$5.00 special                                     1025.0
+footjoy weathersof glove                          1025.0
+misc drink                                         994.0
+misc. food item                                    969.0
+medium drink                                       966.0
+beer 6 pk ultra/ lime                              949.0
+misc club repair & grips                           945.0
+16 oz coors / miller  6pack $15.00                 945.0
+cart add on $6.00                                  944.0
+misc food / drink                                  936.0
+titleist glove                                     912.0
+metro parks golf discount book                     900.0
+pinnacle soft/rush (5 sleeves)                     900.0
+mich ultra 6pack $12.50                            888.0
+winter  twilight green fee                         882.0
+beer - 16oz                                        852.0
+titleist 716 ap1 irons 4-uw                        850.0
+$6.00 food and bev. tickets                        840.0
+bratwurst / polish                                 832.0
+bud products $2.25                                 830.0
+beer $ 3.75 - 25oz                                 822.0
+coffee lg                                          813.0
+titleist permasoft glove                           797.0
+golf cart st stevens -  18 holes                   793.0
+pinnacle rush & soft dz                            782.0
+bottled beer or pints $2.75                        748.0
+drink - medium                                     746.0
+tee time seniors                                   738.0
+pull cart rental                                   723.0
+beer - coors                                       722.0
+pull cart                                          711.0
+turkey and cheese                                  692.0
+16 oz coors / miller $3.00                         681.0
+golf cart st stevens -  9 holes                    672.0
+misc food $5                                       650.0
+titleist pro v1 sleeve                             650.0
+titleist pro v1 or x -dz 2016                      645.0
+titleist pro v1x dozen                             637.0
+tees - 15pack/divot tool                           630.0
+misc. food guest day                               621.0
+beer 16oz - 6pack                                  612.0
+special price 6-pack                               612.0
+smoked sausage                                     603.0
+titleist pro v 1x sleeve                           598.0
+horned legend logo shirts                          595.0
+chicken or tuna salad sandwich                     594.0
+danish                                             589.0
+titleist pro v1 dozen                              588.0
+heineken                                           582.0
+titleist velocity golf ball dozen                  576.0
+premium $2.65                                      564.0
+ham and cheese                                     560.0
+club rental                                        550.0
+youth course jr (13 - 18)                          548.0
+sausage or bacon egg sandwich                      544.0
+hats                                               541.0
+special order -clubs                               528.0
+drink - regular                                    527.0
+chip $1.00                                         513.0
+rider fee $5.00                                    500.0
+beer 6pack 16oz                                    494.0
+shoes                                              483.0
+cheese burger or hamburger                         473.0
+pinnacle rush 3pack                                470.0
+coors light pint $2.75                             464.0
+beer league 12oz - $2                              460.0
+cookies / muffins/ donuts                          456.0
+titleist pro v1 or x slv 2015                      452.0
+range summer special                               452.0
+metro parks 2016 discount golf book                450.0
+miller lite/ coors lite (pint) 6pack               450.0
+youth course sr                                    450.0
+cart add on $6.50 we                               444.0
+chili dog                                          442.0
+energy drink                                       438.0
+misc food $4                                       436.0
+nike air rivel 4 new                               435.0
+bionic performance glove                           429.0
+coors grande                                       426.0
+ping shoe bag                                      425.0
+matinee 9 hole cart                                424.0
+cliff or power bar                                 420.0
+trial set (titleist rent set)                      420.0
+beer $ 2.75 ultra/lime/rolling rock                418.0
+misc food $1                                       416.0
+titleist sm6 wedges                                415.0
+beer premium                                       414.0
+staff candy                                        402.0
+titleist 915 driver                                400.0
+mich ultra $2.50                                   398.0
+misc food $3                                       393.0
+bologna w/ cheese                                  390.0
+titleist dt trusoft                                386.0
+seneca towel                                       385.0
+special drink price                                380.0
+bar b que                                          375.0
+pinnacle rush & soft slv.                          371.0
+a titleist logo balls $10                          370.0
+titleist nxt tour s sleeve                         368.0
+coffee reg. size 12 oz                             364.0
+super stroke mid slim 2.0/slim 3.0/fatso 5.0       364.0
+amber bock                                         362.0
+turkey w/cheese                                    360.0
+sausage biscuit                                    360.0
+nike fi impact sale                                350.0
+nike explorer sl shoes                             345.0
+16 oz ultra $3.00                                  345.0
+puma tour glove                                    341.0
+coors light $2.25                                  340.0
+nike air range wp shoes                            340.0
+logo ball                                          334.0
+beer premium - 6pack 12oz                          333.0
+arnold palmer                                      327.0
+stella artois beer                                 327.0
+footgolf weekend                                   325.0
+$25 holiday special                                324.0
+bridgestone e seris                                324.0
+callaway extreme 2 pk. glove                       323.0
+jacket                                             322.0
+pinnacle soft 3pack                                320.0
+titleist  cap fitted                               316.0
+heineken/corona 6pack                              315.0
+bologna                                            312.0
+peanuts                                            312.0
+maxx & epochf sunglasses                           310.0
+titleist nxt tour slv                              309.0
+beer special $1.75                                 309.0
+extra 9 cart $7.00                                 301.0
+titleist nxt tour dozen                            301.0
+range balls - large                                300.0
+egg salad sandwich                                 297.0
+family we special after 4:30pm                     290.0
+misc. rental clubs set                             290.0
+ice cream $2.00                                    283.0
+titleist nxt tour s dozen                          281.0
+titleist dt trusoft sleeve                         279.0
+sale long sleeve jacket                            278.0
+bionic golf glove classic                          275.0
+matinee 18 hole cart                               275.0
+dos equis                                          271.0
+beer 6pack heineken                                266.0
+tee time golf pass green fee                       264.0
+titleist visor women                               264.0
+cigars shawnee logo                                261.0
+pinnacle logo jar                                  256.0
+footgolf weekday regular                           252.0
+titleist collegiate fitted 2015                    252.0
+hot sausage                                        250.0
+miller lite/ coors lite (pint)                     248.0
+misc. cart                                         245.0
+chip - $1                                          243.0
+titleist dt  solo - dz                             240.0
+footgolf weekday senior/jr/twilight                238.0
+coors light pint 6-pack $14.75                     238.0
+specialty 6pack $14.50                             238.0
+champ fly tee                                      237.0
+titleist 816 hybrid                                235.0
+footjoy shirt                                      235.0
+titleist velocity- dz                              232.0
+turkey or ham sandwich                             228.0
+sobe vitamin water                                 222.0
+footjoy weathersof 2pack gloves                    220.0
+titleist uk/ul hat                                 220.0
+polish sausage                                     214.0
+pimiento cheese                                    213.0
+bud products 6pack $11                             209.0
+titleist cap shawnee logo                          206.0
+turkey or ham w/cheese                             204.0
+titleist nxt tour   or s- dz                       202.0
+titleist nxt tour sleeve                           198.0
+misc food $9                                       198.0
+16 oz ultra 6pack $15.00                           195.0
+fountain - small                                   192.0
+ray cook putters                                   191.0
+southern in srs $19.00                             190.0
+leinekugel beer                                    190.0
+wd discount book green fee                         189.0
+fountain - medium                                  186.0
+footgolf weekend twilight                          182.0
+tees                                               181.0
+titleist bond tech hat                             180.0
+clubhouse rental - employee                        180.0
+taylor made caps                                   176.0
+snyders pretzel pieces                             176.0
+tees - 50pack                                      171.0
+chicken salad basket                               168.0
+family golf fee                                    168.0
+family golf cart fee                               168.0
+tee time winter                                    168.0
+tee time weekday 12-4 pm                           161.0
+titleist velocity sleeve                           160.0
+kodiak winter gloves                               160.0
+berrmuda sands logo shirt                          160.0
+hornungs tees 30ct /50ct                           158.0
+puma men's golf ace shoe                           158.0
+cakes                                              157.0
+meat loaf                                          156.0
+footgolf ball rental                               154.0
+puma caps                                          154.0
+microfiber greens towel                            152.0
+pretzels                                           151.0
+odyssey rx white hot putter                        150.0
+handicap fee                                       150.0
+titleist cart bag 9.5                              150.0
+pride professional tee 100ct &75ct                 147.0
+ice cream $2.50                                    146.0
+nature valley                                      146.0
+bud light pint                                     144.0
+titleist velocity slv                              144.0
+hot dog with chili                                 140.0
+winn dri-tac ladies                                140.0
+callaway chev stand bag                            140.0
+misc food $.30 or $.60                             138.0
+new balance ladies minimus sports                  135.0
+callaway cap adj                                   132.0
+$14.00 cart fee                                    130.0
+ham w/cheese                                       129.0
+beer 6pack stella                                  128.0
+we discount book green fee                         126.0
+can - drink                                        123.0
+pull cart 18                                       123.0
+titleist stadry hat                                123.0
+sausage egg & cheese                               122.0
+spectator cart $10.00                              120.0
+nike all weather glove                             120.0
+footjoy prodry socks 2pack                         120.0
+half sandwich                                      120.0
+hot chocolate                                      119.0
+combos                                             118.0
+ice cream $2.25                                    116.0
+16oz or 12 oz kick starts only $2.50               116.0
+nike air rival lll sale                            115.0
+champ stinger spikes                               113.0
+titleist cubic mesh hat                            112.0
+titleist jersey hat                                112.0
+titleist nxt tour s dozen (yellow)                 111.0
+hornungs golf tees                                 111.0
+callaway cg bucket hat                             110.0
+juice/ sobe lifewater                              110.0
+sausage egg cheese                                 108.0
+titleist dt  solo slv                              105.0
+beer 6pack dos equis                               104.0
+kick start energy drink                            102.0
+sausage or bacon biscuit                           102.0
+dryjoys casuals golf shoes                         100.0
+footjoy hydrolite shoe                              99.0
+sr/twilight 18 cart                                 99.0
+gift card                                           99.0
+coffee large 16 oz                                  98.0
+michelob ultra 6pack                                96.0
+pull cart 9                                         96.0
+golf cart rider fee                                 95.0
+ping zing putter                                    95.0
+bologna w cheese                                    93.0
+sierra nevada                                       92.0
+range teaching basket                               90.0
+sale caps                                           90.0
+titleist velocity dozen                             90.0
+titleist microfiber towel                           88.0
+golf pride tour velvet jumbo grip                   88.0
+stella artois                                       87.0
+footjoy ladies mproject shoes                       87.0
+miscellaneous- merch.                               84.0
+new balance minimus sport shoe                      84.0
+titleist beanie winter hat                          84.0
+callaway chrome soft dz                             82.0
+can soft drink                                      82.0
+footgolf matinee 4-6                                81.0
+ping caps                                           81.0
+winn pro 1.60                                       81.0
+groove tube                                         80.0
+spectator cart $5.00                                80.0
+miscellaneous  -men's apparel                       80.0
+titleist golf hat                                   79.0
+titleist  caps                                      76.0
+golf shoes                                          75.0
+ping camo hat                                       75.0
+nike lunar empress ldies shoe                       75.0
+sale short sleeve windshirt                         73.0
+star wars head cover                                72.0
+hot dog with cheese                                 72.0
+golf pride cp2 pro/ super tack midsize              72.0
+winnpro 1.32 & 1.18 putter grip                     72.0
+winter gloves                                       71.0
+wd junior annual                                    70.0
+hothands                                            70.0
+footjoy shorts                                      70.0
+monterey club men's polo                            70.0
+hot dog with chili & cheese                         69.0
+team golf headcover 3-pack                          68.0
+ping bonnie hat                                     68.0
+pinnacle gold slv                                   66.0
+nike mojo balls dbl. dozen                          66.0
+beer league 16oz - 6pack - $13                      65.0
+footjoy m:project golf shoes                        65.0
+nike dri-fit no show socks                          64.0
+cigarettes                                          63.0
+amp/rockstar                                        63.0
+sausage and egg biscuit                             60.0
+sale monterey ladies tops                           60.0
+coors light 6pack special                           60.0
+seneca hat clip                                     60.0
+guinness/stella 6pack                               60.0
+footjoy m-projects spikeless golf shoe              57.0
+16oz amp only                                       57.0
+can drink -12oz                                     57.0
+dbl cheese burger                                   55.0
+miscellaneous  - golf balls                         54.0
+kickstart                                           54.0
+par 3 18 hole cart                                  54.0
+titleist winter hat pom pom                         53.0
+ping diamond towel                                  52.0
+rain gear                                           51.0
+power bilt drivers                                  51.0
+titleist ear bands                                  51.0
+footjoy m:project golf shoes 2015                   50.0
+footjoy junior gloves                               50.0
+titleist tour performance hat                       50.0
+sale shawnee logo straw hat                         49.0
+ping patch structured hat                           48.0
+bologna and cheese                                  48.0
+footjoy contour casual                              47.0
+seneca logo hats                                    47.0
+maintenance misc. food                              46.0
+ice cream                                           46.0
+team golf millitary towel                           45.0
+footjoy junior shoes                                45.0
+hornungs umbrella                                   45.0
+titleist winter earmuffs                            42.0
+ice cream $1.50                                     41.0
+pride professional 4 inch tee                       40.0
+ping g25 structured hat                             40.0
+$10 6-pack special                                  40.0
+footjoy comfort sof 3pack                           40.0
+titleist pompom hat                                 39.0
+ice cream $1.25                                     36.0
+turkey                                              36.0
+$4 food special 1                                   36.0
+sun mountain thermal red                            35.0
+martini tee                                         35.0
+hot dog w cheese                                    34.0
+pinnacle gold 15pack                                34.0
+2 for 20 gloves                                     33.0
+corona/corona light                                 32.0
+champ pro soft brush                                32.0
+titleist cart mitts                                 32.0
+ping golf glove                                     32.0
+titleist needle point bucket hat                    32.0
+titleist aussie hat                                 32.0
+majek sandals                                       31.0
+ball eagle retriever                                31.0
+titleist back sack                                  30.0
+sale shawnee logo bucket                            30.0
+2016 montery polo                                   30.0
+titleist umbrella                                   28.0
+pork loin sandwich                                  28.0
+hornungs groove brush                               27.0
+team golf putter cover                              26.0
+sofjoy glove                                        26.0
+titleist bucket hat                                 26.0
+$1.50 16 oz drink                                   25.0
+locker fee                                          25.0
+titleist contrast stitch hat                        25.0
+grips never bend putter                             25.0
+special order - mens apparel                        25.0
+winter jr fee                                       24.0
+callaway sport hat                                  24.0
+winter jr green fee                                 24.0
+family golf cart                                    24.0
+green fee special event                             24.0
+titleist towel players                              24.0
+hornungs groove tube                                24.0
+$6.00 lunch special                                 24.0
+ping hat clips                                      24.0
+titleist towel staff                                23.0
+lime-a-rita                                         22.0
+footjoy rain gloves                                 22.0
+titleist visors                                     22.0
+ping kp cap                                         21.0
+towels                                              21.0
+titleist dt solo sleeve                             21.0
+titleist qmax hat                                   20.0
+titleistt hand warmer                               20.0
+-  9 holes                                          20.0
+maxx sunglasses                                     20.0
+ping visor                                          20.0
+miscellaneous  -shoes                               20.0
+coffee - large                                      20.0
+nyx kele sunglasses                                 20.0
+titleist winter hat striped                         19.0
+ham sandwich                                        18.0
+michelob ultra                                      18.0
+ping tri fold towel                                 18.0
+ping lady sport visor                               18.0
+golf pride tour wrap 2g blue/black                  16.0
+footjoy comfort sof socks(black)                    15.0
+titleist visor men                                  15.0
+rain hood clear pvc                                 14.0
+spikes                                              14.0
+golf pride cp2 wrap (midsize)                       13.0
+twist-off beer 6 pack $13                           13.0
+$2.00 beer                                          12.0
+taylormade spiort stratus glove                     12.0
+misc food item $1.75                                11.0
+us kids golf glove                                  11.0
+nike dri-fit  crew socks                            10.0
+muffins                                             10.0
+powerbilt junior gloves                             10.0
+us tour glove                                        9.0
+bionic glove                                         9.0
+misc cart rental                                     9.0
+cigar 8.90 romeo & julieta                           9.0
+deli sandwich                                        8.0
+dbl hamburger                                        8.0
+champ spike pro wrench                               6.0
+cheese burger double decker                          6.0
+egg sandwich                                         6.0
+golfer's sun screen                                  6.0
+pb&j or cheese sandwich                              6.0
+tees-30pack                                          6.0
+comfort sof crew socks                               6.0
+mikes hard lemonade                                  6.0
+shawnee pepper dog                                   6.0
+golfer's lips chap stick                             5.0
+footjoy comfort sof women                            5.0
+line m up ball marker                                4.0
+donuts                                               4.0
+soup                                                 4.0
+pimento salad basket                                 3.0
+pure leaf tea                                        2.0
+tees $1                                              2.0
+misc. food $8                                        2.0
+can drink                                            2.0
+tom's chip                                           1.0
+chip - $1.50                                         1.0
+yoohoo                                               1.0
+socks                                                1.0
+beer stella& goose lsl. cherry cola                  0.0
+extra cheese                                         0.0
+coffee sm                                            0.0
+cup                                                  0.0
+cup ice or water                                     0.0
+cup ice water                                        0.0
+cup of water - large                                 0.0
+cup of water - sm or med.                            0.0
+drink - refill                                       0.0
+ice water large                                      0.0
+master preview louis mcdonald                        0.0
+.25 candy                                            0.0
+no sale                                              0.0
+ice water                                            0.0
+ice                                                  0.0
+gum                                                  0.0
+granola bars                                         0.0
+gift certificate                                     0.0
+youth course free (below 13)                         0.0
+gift cert / rain check cart                          0.0
+nan                                                  0.0
+oatmeal cream pies                                   0.0
+nutri-grain                                          0.0
+beer3.25 stella& gooseipa& cherry cola               0.0
+tees small bag 15 pk                                 0.0
+tees $0.75                                           0.0
+tees $0.50                                           0.0
+staff hamburgers                                     0.0
+staff dogs                                           0.0
+shawnee logo divot tool                              0.0
+reserved tee times                                   0.0
+tylenol 2 pks                                        0.0
+regular outing                                       0.0
+$0.25 extra                                          0.0
+chip - $0.75                                         0.0
+raincheck redeemed                                   0.0
+raincheck                                            0.0
+rain check cart 9 $6.00 issued                       0.0
+banana                                               0.0
+rain check cart 18 issued                            0.0
+ball markers 3 for.25 cents                          0.0
+rain check cart                                      0.0
+coffee - small                                       0.0
+staff fee                                          -72.0
+key refund                                      -14569.0
+Name: TotalSaleAmount, dtype: float64

@@ -1,0 +1,4950 @@
+{
+    "totalSalesAmount": 2305320.0,
+    "totalSalesQuantity": 343538.0,
+    "monthlySales": [
+        {
+            "Month": "2015-12",
+            "TotalSaleAmount": 9015.0
+        },
+        {
+            "Month": "2016-01",
+            "TotalSaleAmount": 84543.0
+        },
+        {
+            "Month": "2016-02",
+            "TotalSaleAmount": 154082.0
+        },
+        {
+            "Month": "2016-03",
+            "TotalSaleAmount": 323226.0
+        },
+        {
+            "Month": "2016-04",
+            "TotalSaleAmount": 552501.0
+        },
+        {
+            "Month": "2016-05",
+            "TotalSaleAmount": 650335.0
+        },
+        {
+            "Month": "2016-06",
+            "TotalSaleAmount": 531618.0
+        }
+    ],
+    "bestSellingByQuantity": [
+        {
+            "ItemDescription": "golf cart 1/2 18 holes",
+            "Quantity": 22135.0
+        },
+        {
+            "ItemDescription": "we green fee",
+            "Quantity": 18313.0
+        },
+        {
+            "ItemDescription": "key deposit",
+            "Quantity": 17538.0
+        },
+        {
+            "ItemDescription": "golf cart 1/2 9 hole",
+            "Quantity": 14407.0
+        },
+        {
+            "ItemDescription": "senior green fee",
+            "Quantity": 14373.0
+        },
+        {
+            "ItemDescription": "wd green fee",
+            "Quantity": 13216.0
+        },
+        {
+            "ItemDescription": "key refund",
+            "Quantity": 11098.0
+        },
+        {
+            "ItemDescription": "hot dog",
+            "Quantity": 8727.0
+        },
+        {
+            "ItemDescription": "adult annual green fee",
+            "Quantity": 8507.0
+        },
+        {
+            "ItemDescription": "golf cart annual fee",
+            "Quantity": 8333.0
+        },
+        {
+            "ItemDescription": "range balls",
+            "Quantity": 7166.0
+        },
+        {
+            "ItemDescription": "gatorade",
+            "Quantity": 7051.0
+        },
+        {
+            "ItemDescription": "matinee green fee",
+            "Quantity": 6386.0
+        },
+        {
+            "ItemDescription": "beer",
+            "Quantity": 6332.0
+        },
+        {
+            "ItemDescription": "large drink",
+            "Quantity": 5978.0
+        },
+        {
+            "ItemDescription": "golf cart 1/2 18 holes we",
+            "Quantity": 5298.0
+        },
+        {
+            "ItemDescription": "wd twilight green fee",
+            "Quantity": 4914.0
+        },
+        {
+            "ItemDescription": "candy",
+            "Quantity": 4914.0
+        },
+        {
+            "ItemDescription": "20oz bottle",
+            "Quantity": 4283.0
+        },
+        {
+            "ItemDescription": "we annual green fee",
+            "Quantity": 4003.0
+        },
+        {
+            "ItemDescription": "crackers",
+            "Quantity": 3984.0
+        },
+        {
+            "ItemDescription": "9 hole 1/2 cart",
+            "Quantity": 3944.0
+        },
+        {
+            "ItemDescription": "20 oz soft/propel/gatorades",
+            "Quantity": 3764.0
+        },
+        {
+            "ItemDescription": "bottled soda/ gatorade",
+            "Quantity": 3737.0
+        },
+        {
+            "ItemDescription": "misc merchandise",
+            "Quantity": 3669.0
+        },
+        {
+            "ItemDescription": "bottled water",
+            "Quantity": 3370.0
+        },
+        {
+            "ItemDescription": "chip",
+            "Quantity": 3336.0
+        },
+        {
+            "ItemDescription": "18 hole 1/2 cart",
+            "Quantity": 3244.0
+        },
+        {
+            "ItemDescription": "twilight green fee",
+            "Quantity": 3226.0
+        },
+        {
+            "ItemDescription": "small drink",
+            "Quantity": 3206.0
+        },
+        {
+            "ItemDescription": "regular beer $2.25",
+            "Quantity": 3055.0
+        },
+        {
+            "ItemDescription": "golf cart tee pass 1/2 18 hole",
+            "Quantity": 2723.0
+        },
+        {
+            "ItemDescription": "regular 6pack $11.00",
+            "Quantity": 2556.0
+        },
+        {
+            "ItemDescription": "wd sr. green fee7-2pm",
+            "Quantity": 2476.0
+        },
+        {
+            "ItemDescription": "winter we greenfee",
+            "Quantity": 2389.0
+        },
+        {
+            "ItemDescription": "beer 12oz",
+            "Quantity": 2335.0
+        },
+        {
+            "ItemDescription": "wd senior green fee",
+            "Quantity": 2313.0
+        },
+        {
+            "ItemDescription": "trail fee",
+            "Quantity": 2306.0
+        },
+        {
+            "ItemDescription": "we twilight green fee",
+            "Quantity": 2236.0
+        },
+        {
+            "ItemDescription": "cheese burger",
+            "Quantity": 2088.0
+        },
+        {
+            "ItemDescription": "chip / candy / peanuts / granola / fruit",
+            "Quantity": 2079.0
+        },
+        {
+            "ItemDescription": "winter twilight",
+            "Quantity": 2043.0
+        },
+        {
+            "ItemDescription": "bratwurst",
+            "Quantity": 1991.0
+        },
+        {
+            "ItemDescription": "reg 9 cart",
+            "Quantity": 1861.0
+        },
+        {
+            "ItemDescription": "misc food item",
+            "Quantity": 1773.0
+        },
+        {
+            "ItemDescription": "bottled drink",
+            "Quantity": 1719.0
+        },
+        {
+            "ItemDescription": "beer 6pack $12.50",
+            "Quantity": 1703.0
+        },
+        {
+            "ItemDescription": "junior annual green fee",
+            "Quantity": 1682.0
+        },
+        {
+            "ItemDescription": "miller lite $2.25",
+            "Quantity": 1682.0
+        },
+        {
+            "ItemDescription": "bottled soda",
+            "Quantity": 1672.0
+        },
+        {
+            "ItemDescription": "winter senior green fee",
+            "Quantity": 1645.0
+        },
+        {
+            "ItemDescription": "brat / polish / hot mama /sd",
+            "Quantity": 1610.0
+        },
+        {
+            "ItemDescription": "aquafina",
+            "Quantity": 1578.0
+        },
+        {
+            "ItemDescription": "balls",
+            "Quantity": 1534.0
+        },
+        {
+            "ItemDescription": "junior green fee",
+            "Quantity": 1393.0
+        },
+        {
+            "ItemDescription": "coffee",
+            "Quantity": 1381.0
+        },
+        {
+            "ItemDescription": "beer $ 2.25 - domestic",
+            "Quantity": 1243.0
+        },
+        {
+            "ItemDescription": "tees $1.00",
+            "Quantity": 1207.0
+        },
+        {
+            "ItemDescription": "beer - 6pack 12oz",
+            "Quantity": 1179.0
+        },
+        {
+            "ItemDescription": "chip $1.50",
+            "Quantity": 1157.0
+        },
+        {
+            "ItemDescription": "ice water",
+            "Quantity": 1097.0
+        },
+        {
+            "ItemDescription": "candy bars",
+            "Quantity": 1077.0
+        },
+        {
+            "ItemDescription": "wd annual green fee",
+            "Quantity": 1027.0
+        },
+        {
+            "ItemDescription": "miller lite 6pack $11.25",
+            "Quantity": 1023.0
+        },
+        {
+            "ItemDescription": "winter we green fee",
+            "Quantity": 972.0
+        },
+        {
+            "ItemDescription": "medium drink",
+            "Quantity": 966.0
+        },
+        {
+            "ItemDescription": "20 oz aquafina water",
+            "Quantity": 953.0
+        },
+        {
+            "ItemDescription": "range balls- large",
+            "Quantity": 912.0
+        },
+        {
+            "ItemDescription": "matinee green fee 4-6 pm",
+            "Quantity": 855.0
+        },
+        {
+            "ItemDescription": "member 9 1/2 cart $7.00",
+            "Quantity": 817.0
+        },
+        {
+            "ItemDescription": "coffee lg",
+            "Quantity": 813.0
+        },
+        {
+            "ItemDescription": "coors $2.00",
+            "Quantity": 813.0
+        },
+        {
+            "ItemDescription": "beer 6 pk $11.00 - domestic/rolling rock",
+            "Quantity": 746.0
+        },
+        {
+            "ItemDescription": "drink - medium",
+            "Quantity": 746.0
+        },
+        {
+            "ItemDescription": "winter weekend",
+            "Quantity": 732.0
+        },
+        {
+            "ItemDescription": "range - large bucket",
+            "Quantity": 700.0
+        },
+        {
+            "ItemDescription": "pullcart",
+            "Quantity": 634.0
+        },
+        {
+            "ItemDescription": "tees - 15pack/divot tool",
+            "Quantity": 630.0
+        },
+        {
+            "ItemDescription": "range balls- small",
+            "Quantity": 624.0
+        },
+        {
+            "ItemDescription": "weekend 9 hole cart",
+            "Quantity": 619.0
+        },
+        {
+            "ItemDescription": "chicken salad",
+            "Quantity": 604.0
+        },
+        {
+            "ItemDescription": "beer3.25 stella& gooseipa& cherry cola",
+            "Quantity": 594.0
+        },
+        {
+            "ItemDescription": "member 18 1/2 cart $12.00",
+            "Quantity": 592.0
+        },
+        {
+            "ItemDescription": "danish",
+            "Quantity": 589.0
+        },
+        {
+            "ItemDescription": "winter wd green fee",
+            "Quantity": 585.0
+        },
+        {
+            "ItemDescription": "fountain - large",
+            "Quantity": 580.0
+        },
+        {
+            "ItemDescription": "$0.25 extra",
+            "Quantity": 577.0
+        },
+        {
+            "ItemDescription": "wd annual green fee 5 day",
+            "Quantity": 571.0
+        },
+        {
+            "ItemDescription": "coffee sm",
+            "Quantity": 535.0
+        },
+        {
+            "ItemDescription": "drink - regular",
+            "Quantity": 527.0
+        },
+        {
+            "ItemDescription": "beer 16oz",
+            "Quantity": 513.0
+        },
+        {
+            "ItemDescription": "chip $1.00",
+            "Quantity": 513.0
+        },
+        {
+            "ItemDescription": "beer $3.00 imp/16oz btl/rita's",
+            "Quantity": 500.0
+        },
+        {
+            "ItemDescription": "beer 6pack",
+            "Quantity": 497.0
+        },
+        {
+            "ItemDescription": "youth course free (below 13)",
+            "Quantity": 490.0
+        },
+        {
+            "ItemDescription": "coors light 6pack $11",
+            "Quantity": 487.0
+        },
+        {
+            "ItemDescription": "sausage",
+            "Quantity": 462.0
+        },
+        {
+            "ItemDescription": "cookies / muffins/ donuts",
+            "Quantity": 456.0
+        },
+        {
+            "ItemDescription": "misc food $1",
+            "Quantity": 416.0
+        },
+        {
+            "ItemDescription": "bratwurst / polish",
+            "Quantity": 416.0
+        },
+        {
+            "ItemDescription": "bud products $2.25",
+            "Quantity": 415.0
+        },
+        {
+            "ItemDescription": "range - small bucket",
+            "Quantity": 413.0
+        },
+        {
+            "ItemDescription": "reg 18 cart",
+            "Quantity": 408.0
+        },
+        {
+            "ItemDescription": "hamburger",
+            "Quantity": 407.0
+        },
+        {
+            "ItemDescription": "staff candy",
+            "Quantity": 402.0
+        },
+        {
+            "ItemDescription": "reserved tee times",
+            "Quantity": 399.0
+        },
+        {
+            "ItemDescription": "tees small bag 15 pk",
+            "Quantity": 397.0
+        },
+        {
+            "ItemDescription": "tuna salad",
+            "Quantity": 392.0
+        },
+        {
+            "ItemDescription": "bottled beer or pints $2.75",
+            "Quantity": 374.0
+        },
+        {
+            "ItemDescription": "range - medium bucket",
+            "Quantity": 365.0
+        },
+        {
+            "ItemDescription": "coffee reg. size 12 oz",
+            "Quantity": 364.0
+        },
+        {
+            "ItemDescription": "beer - coors",
+            "Quantity": 361.0
+        },
+        {
+            "ItemDescription": "coors 6pack $10.00",
+            "Quantity": 356.0
+        },
+        {
+            "ItemDescription": "gloves",
+            "Quantity": 325.0
+        },
+        {
+            "ItemDescription": "youth course adult",
+            "Quantity": 324.0
+        },
+        {
+            "ItemDescription": "misc. food $6.00",
+            "Quantity": 321.0
+        },
+        {
+            "ItemDescription": "we annual green fee 7 day",
+            "Quantity": 319.0
+        },
+        {
+            "ItemDescription": "peanuts",
+            "Quantity": 312.0
+        },
+        {
+            "ItemDescription": "beer special $1.75",
+            "Quantity": 309.0
+        },
+        {
+            "ItemDescription": "winter senior wd green fee",
+            "Quantity": 297.0
+        },
+        {
+            "ItemDescription": "logo ball",
+            "Quantity": 297.0
+        },
+        {
+            "ItemDescription": "heineken",
+            "Quantity": 291.0
+        },
+        {
+            "ItemDescription": "beer - 16oz",
+            "Quantity": 284.0
+        },
+        {
+            "ItemDescription": "premium $2.65",
+            "Quantity": 282.0
+        },
+        {
+            "ItemDescription": "beer $ 3.75 - 25oz",
+            "Quantity": 274.0
+        },
+        {
+            "ItemDescription": "2nd nine cart $6.00",
+            "Quantity": 268.0
+        },
+        {
+            "ItemDescription": "spikes",
+            "Quantity": 266.0
+        },
+        {
+            "ItemDescription": "weekend 18 hole cart",
+            "Quantity": 258.0
+        },
+        {
+            "ItemDescription": "6 pack special $9.50",
+            "Quantity": 256.0
+        },
+        {
+            "ItemDescription": "pinnacle logo jar",
+            "Quantity": 256.0
+        },
+        {
+            "ItemDescription": "gift card add value",
+            "Quantity": 254.0
+        },
+        {
+            "ItemDescription": "ice water large",
+            "Quantity": 253.0
+        },
+        {
+            "ItemDescription": "golf cart spectator -  9 holes",
+            "Quantity": 244.0
+        },
+        {
+            "ItemDescription": "chip - $1",
+            "Quantity": 243.0
+        },
+        {
+            "ItemDescription": "misc. merchandise",
+            "Quantity": 241.0
+        },
+        {
+            "ItemDescription": "pull cart rental",
+            "Quantity": 241.0
+        },
+        {
+            "ItemDescription": "cup of water - large",
+            "Quantity": 238.0
+        },
+        {
+            "ItemDescription": "pull cart",
+            "Quantity": 237.0
+        },
+        {
+            "ItemDescription": "par 3 nine hole cart",
+            "Quantity": 234.0
+        },
+        {
+            "ItemDescription": "coors light pint $2.75",
+            "Quantity": 232.0
+        },
+        {
+            "ItemDescription": "beer league 12oz - $2",
+            "Quantity": 230.0
+        },
+        {
+            "ItemDescription": "16 oz coors / miller $3.00",
+            "Quantity": 227.0
+        },
+        {
+            "ItemDescription": "extra holes cart",
+            "Quantity": 221.0
+        },
+        {
+            "ItemDescription": "chili dog",
+            "Quantity": 214.0
+        },
+        {
+            "ItemDescription": "cliff or power bar",
+            "Quantity": 210.0
+        },
+        {
+            "ItemDescription": "beer $ 2.75 ultra/lime/rolling rock",
+            "Quantity": 209.0
+        },
+        {
+            "ItemDescription": "beer premium",
+            "Quantity": 207.0
+        },
+        {
+            "ItemDescription": "$5.00 special",
+            "Quantity": 205.0
+        },
+        {
+            "ItemDescription": "smoked sausage",
+            "Quantity": 201.0
+        },
+        {
+            "ItemDescription": "mich ultra $2.50",
+            "Quantity": 199.0
+        },
+        {
+            "ItemDescription": "chicken or tuna salad sandwich",
+            "Quantity": 198.0
+        },
+        {
+            "ItemDescription": "granola bars",
+            "Quantity": 198.0
+        },
+        {
+            "ItemDescription": "fountain - small",
+            "Quantity": 192.0
+        },
+        {
+            "ItemDescription": "cup of water - sm or med.",
+            "Quantity": 191.0
+        },
+        {
+            "ItemDescription": "golf cart spectator - 18 holes",
+            "Quantity": 191.0
+        },
+        {
+            "ItemDescription": "special drink price",
+            "Quantity": 190.0
+        },
+        {
+            "ItemDescription": "misc. food item",
+            "Quantity": 189.0
+        },
+        {
+            "ItemDescription": "misc. merch",
+            "Quantity": 188.0
+        },
+        {
+            "ItemDescription": "beer 6 pk $8.00 - coors",
+            "Quantity": 187.0
+        },
+        {
+            "ItemDescription": "fountain - medium",
+            "Quantity": 186.0
+        },
+        {
+            "ItemDescription": "outing food",
+            "Quantity": 185.0
+        },
+        {
+            "ItemDescription": "additional holes",
+            "Quantity": 184.0
+        },
+        {
+            "ItemDescription": "tees",
+            "Quantity": 181.0
+        },
+        {
+            "ItemDescription": "amber bock",
+            "Quantity": 181.0
+        },
+        {
+            "ItemDescription": "sausage biscuit",
+            "Quantity": 180.0
+        },
+        {
+            "ItemDescription": "snyders pretzel pieces",
+            "Quantity": 176.0
+        },
+        {
+            "ItemDescription": "winter weekdays",
+            "Quantity": 175.0
+        },
+        {
+            "ItemDescription": "turkey and cheese",
+            "Quantity": 173.0
+        },
+        {
+            "ItemDescription": "coors light $2.25",
+            "Quantity": 170.0
+        },
+        {
+            "ItemDescription": "cart add on $6.00",
+            "Quantity": 159.0
+        },
+        {
+            "ItemDescription": "cakes",
+            "Quantity": 157.0
+        },
+        {
+            "ItemDescription": "pretzels",
+            "Quantity": 151.0
+        },
+        {
+            "ItemDescription": "misc. cart fee",
+            "Quantity": 148.0
+        },
+        {
+            "ItemDescription": "winter  twilight green fee",
+            "Quantity": 147.0
+        },
+        {
+            "ItemDescription": "energy drink",
+            "Quantity": 146.0
+        },
+        {
+            "ItemDescription": "nature valley",
+            "Quantity": 146.0
+        },
+        {
+            "ItemDescription": "cart special",
+            "Quantity": 144.0
+        },
+        {
+            "ItemDescription": "ice cream $2.00",
+            "Quantity": 144.0
+        },
+        {
+            "ItemDescription": "coors grande",
+            "Quantity": 142.0
+        },
+        {
+            "ItemDescription": "ham and cheese",
+            "Quantity": 140.0
+        },
+        {
+            "ItemDescription": "$6.00 food and bev. tickets",
+            "Quantity": 140.0
+        },
+        {
+            "ItemDescription": "cheese burger or hamburger",
+            "Quantity": 137.0
+        },
+        {
+            "ItemDescription": "youth course jr (13 - 18)",
+            "Quantity": 137.0
+        },
+        {
+            "ItemDescription": "sausage or bacon egg sandwich",
+            "Quantity": 136.0
+        },
+        {
+            "ItemDescription": "9 hole twilight cart",
+            "Quantity": 136.0
+        },
+        {
+            "ItemDescription": "misc food $3",
+            "Quantity": 131.0
+        },
+        {
+            "ItemDescription": "southern indianasrs $23.00",
+            "Quantity": 131.0
+        },
+        {
+            "ItemDescription": "bologna w/ cheese",
+            "Quantity": 130.0
+        },
+        {
+            "ItemDescription": "misc food $5",
+            "Quantity": 130.0
+        },
+        {
+            "ItemDescription": "hot sausage",
+            "Quantity": 125.0
+        },
+        {
+            "ItemDescription": "bar b que",
+            "Quantity": 125.0
+        },
+        {
+            "ItemDescription": "miller lite/ coors lite (pint)",
+            "Quantity": 124.0
+        },
+        {
+            "ItemDescription": "golf cart tee time book",
+            "Quantity": 123.0
+        },
+        {
+            "ItemDescription": "can - drink",
+            "Quantity": 123.0
+        },
+        {
+            "ItemDescription": "raincheck",
+            "Quantity": 122.0
+        },
+        {
+            "ItemDescription": "rental clubs",
+            "Quantity": 120.0
+        },
+        {
+            "ItemDescription": "turkey w/cheese",
+            "Quantity": 120.0
+        },
+        {
+            "ItemDescription": "hot chocolate",
+            "Quantity": 119.0
+        },
+        {
+            "ItemDescription": "combos",
+            "Quantity": 118.0
+        },
+        {
+            "ItemDescription": "dos equis",
+            "Quantity": 115.0
+        },
+        {
+            "ItemDescription": "16 oz ultra $3.00",
+            "Quantity": 115.0
+        },
+        {
+            "ItemDescription": "beer league 12oz - 6pack - $10",
+            "Quantity": 112.0
+        },
+        {
+            "ItemDescription": "banana",
+            "Quantity": 111.0
+        },
+        {
+            "ItemDescription": "arnold palmer",
+            "Quantity": 109.0
+        },
+        {
+            "ItemDescription": "misc food $4",
+            "Quantity": 109.0
+        },
+        {
+            "ItemDescription": "stella artois beer",
+            "Quantity": 109.0
+        },
+        {
+            "ItemDescription": "polish sausage",
+            "Quantity": 107.0
+        },
+        {
+            "ItemDescription": "no sale",
+            "Quantity": 106.0
+        },
+        {
+            "ItemDescription": "a titleist logo balls",
+            "Quantity": 106.0
+        },
+        {
+            "ItemDescription": "bologna",
+            "Quantity": 104.0
+        },
+        {
+            "ItemDescription": "egg salad sandwich",
+            "Quantity": 101.0
+        },
+        {
+            "ItemDescription": "rider fee $5.00",
+            "Quantity": 100.0
+        },
+        {
+            "ItemDescription": "coffee large 16 oz",
+            "Quantity": 98.0
+        },
+        {
+            "ItemDescription": "pull cart 9",
+            "Quantity": 96.0
+        },
+        {
+            "ItemDescription": "leinekugel beer",
+            "Quantity": 95.0
+        },
+        {
+            "ItemDescription": "chip - $0.75",
+            "Quantity": 94.0
+        },
+        {
+            "ItemDescription": "pinnacle rush 3pack",
+            "Quantity": 94.0
+        },
+        {
+            "ItemDescription": "pinnacle rush & soft slv.",
+            "Quantity": 93.0
+        },
+        {
+            "ItemDescription": "premium 6pack $13.00",
+            "Quantity": 91.0
+        },
+        {
+            "ItemDescription": "misc drink",
+            "Quantity": 91.0
+        },
+        {
+            "ItemDescription": "tees $0.75",
+            "Quantity": 91.0
+        },
+        {
+            "ItemDescription": "golf cart $12.00 cards",
+            "Quantity": 86.0
+        },
+        {
+            "ItemDescription": "beer stella& goose lsl. cherry cola",
+            "Quantity": 84.0
+        },
+        {
+            "ItemDescription": "golf cart st stevens -  9 holes",
+            "Quantity": 84.0
+        },
+        {
+            "ItemDescription": "can soft drink",
+            "Quantity": 82.0
+        },
+        {
+            "ItemDescription": "footjoy weathersof glove",
+            "Quantity": 79.0
+        },
+        {
+            "ItemDescription": "hornungs tees 30ct /50ct",
+            "Quantity": 79.0
+        },
+        {
+            "ItemDescription": "footgolf ball rental",
+            "Quantity": 77.0
+        },
+        {
+            "ItemDescription": "turkey or ham sandwich",
+            "Quantity": 76.0
+        },
+        {
+            "ItemDescription": "misc. merchandise $10",
+            "Quantity": 75.0
+        },
+        {
+            "ItemDescription": "youth course sr",
+            "Quantity": 75.0
+        },
+        {
+            "ItemDescription": "mich ultra 6pack $12.50",
+            "Quantity": 74.0
+        },
+        {
+            "ItemDescription": "beer 6 pk/ imp /16 ozbtl/ rita's/ corona/hei",
+            "Quantity": 74.0
+        },
+        {
+            "ItemDescription": "sobe vitamin water",
+            "Quantity": 74.0
+        },
+        {
+            "ItemDescription": "cart add on $6.50 we",
+            "Quantity": 74.0
+        },
+        {
+            "ItemDescription": "ice cream $2.50",
+            "Quantity": 73.0
+        },
+        {
+            "ItemDescription": "beer 6 pk ultra/ lime",
+            "Quantity": 73.0
+        },
+        {
+            "ItemDescription": "bud light pint",
+            "Quantity": 72.0
+        },
+        {
+            "ItemDescription": "pimiento cheese",
+            "Quantity": 71.0
+        },
+        {
+            "ItemDescription": "hot dog with chili",
+            "Quantity": 70.0
+        },
+        {
+            "ItemDescription": "wd junior annual",
+            "Quantity": 70.0
+        },
+        {
+            "ItemDescription": "misc. food guest day",
+            "Quantity": 69.0
+        },
+        {
+            "ItemDescription": "turkey or ham w/cheese",
+            "Quantity": 68.0
+        },
+        {
+            "ItemDescription": "nutri-grain",
+            "Quantity": 68.0
+        },
+        {
+            "ItemDescription": "misc food / drink",
+            "Quantity": 67.0
+        },
+        {
+            "ItemDescription": "cup ice or water",
+            "Quantity": 66.0
+        },
+        {
+            "ItemDescription": "golf discount book",
+            "Quantity": 64.0
+        },
+        {
+            "ItemDescription": "pinnacle soft 3pack",
+            "Quantity": 64.0
+        },
+        {
+            "ItemDescription": "outing hot key",
+            "Quantity": 64.0
+        },
+        {
+            "ItemDescription": "16 oz coors / miller  6pack $15.00",
+            "Quantity": 63.0
+        },
+        {
+            "ItemDescription": "discount book-trail pass",
+            "Quantity": 62.0
+        },
+        {
+            "ItemDescription": "sausage egg & cheese",
+            "Quantity": 61.0
+        },
+        {
+            "ItemDescription": "golf cart st stevens -  18 holes",
+            "Quantity": 61.0
+        },
+        {
+            "ItemDescription": "half sandwich",
+            "Quantity": 60.0
+        },
+        {
+            "ItemDescription": "misc. food $10.00",
+            "Quantity": 59.0
+        },
+        {
+            "ItemDescription": "16oz or 12 oz kick starts only $2.50",
+            "Quantity": 58.0
+        },
+        {
+            "ItemDescription": "ice cream $2.25",
+            "Quantity": 58.0
+        },
+        {
+            "ItemDescription": "misc. rental clubs set",
+            "Quantity": 58.0
+        },
+        {
+            "ItemDescription": "titleist glove",
+            "Quantity": 57.0
+        },
+        {
+            "ItemDescription": "tees - 50pack",
+            "Quantity": 57.0
+        },
+        {
+            "ItemDescription": "titleist permasoft glove",
+            "Quantity": 57.0
+        },
+        {
+            "ItemDescription": "ball markers 3 for.25 cents",
+            "Quantity": 56.0
+        },
+        {
+            "ItemDescription": "juice/ sobe lifewater",
+            "Quantity": 55.0
+        },
+        {
+            "ItemDescription": "sausage egg cheese",
+            "Quantity": 54.0
+        },
+        {
+            "ItemDescription": "club repair",
+            "Quantity": 54.0
+        },
+        {
+            "ItemDescription": "matinee 9 hole cart",
+            "Quantity": 53.0
+        },
+        {
+            "ItemDescription": "club rental",
+            "Quantity": 51.0
+        },
+        {
+            "ItemDescription": "sausage or bacon biscuit",
+            "Quantity": 51.0
+        },
+        {
+            "ItemDescription": "kick start energy drink",
+            "Quantity": 51.0
+        },
+        {
+            "ItemDescription": "special price 6-pack",
+            "Quantity": 51.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 sleeve",
+            "Quantity": 50.0
+        },
+        {
+            "ItemDescription": "titleist pro v 1x sleeve",
+            "Quantity": 46.0
+        },
+        {
+            "ItemDescription": "pinnacle rush & soft dz",
+            "Quantity": 46.0
+        },
+        {
+            "ItemDescription": "sierra nevada",
+            "Quantity": 46.0
+        },
+        {
+            "ItemDescription": "misc food item $12",
+            "Quantity": 45.0
+        },
+        {
+            "ItemDescription": "oatmeal cream pies",
+            "Quantity": 45.0
+        },
+        {
+            "ItemDescription": "ham w/cheese",
+            "Quantity": 43.0
+        },
+        {
+            "ItemDescription": "extra 9 cart $7.00",
+            "Quantity": 43.0
+        },
+        {
+            "ItemDescription": "chicken salad basket",
+            "Quantity": 42.0
+        },
+        {
+            "ItemDescription": "tee time seniors",
+            "Quantity": 41.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s sleeve",
+            "Quantity": 41.0
+        },
+        {
+            "ItemDescription": "pinnacle soft/rush (5 sleeves)",
+            "Quantity": 41.0
+        },
+        {
+            "ItemDescription": "pull cart 18",
+            "Quantity": 41.0
+        },
+        {
+            "ItemDescription": "ice cream $1.50",
+            "Quantity": 41.0
+        },
+        {
+            "ItemDescription": "matinee 18 hole cart",
+            "Quantity": 40.0
+        },
+        {
+            "ItemDescription": "champ fly tee",
+            "Quantity": 40.0
+        },
+        {
+            "ItemDescription": "titleist dt trusoft sleeve",
+            "Quantity": 40.0
+        },
+        {
+            "ItemDescription": "meat loaf",
+            "Quantity": 39.0
+        },
+        {
+            "ItemDescription": "beer 16oz - 6pack",
+            "Quantity": 39.0
+        },
+        {
+            "ItemDescription": "beer 6pack 16oz",
+            "Quantity": 38.0
+        },
+        {
+            "ItemDescription": "microfiber greens towel",
+            "Quantity": 38.0
+        },
+        {
+            "ItemDescription": "hornungs golf tees",
+            "Quantity": 37.0
+        },
+        {
+            "ItemDescription": "hats",
+            "Quantity": 37.0
+        },
+        {
+            "ItemDescription": "misc club repair & grips",
+            "Quantity": 37.0
+        },
+        {
+            "ItemDescription": "a titleist logo balls $10",
+            "Quantity": 37.0
+        },
+        {
+            "ItemDescription": "metro parks golf discount book",
+            "Quantity": 36.0
+        },
+        {
+            "ItemDescription": "sheehan family",
+            "Quantity": 36.0
+        },
+        {
+            "ItemDescription": "ice",
+            "Quantity": 36.0
+        },
+        {
+            "ItemDescription": "ice cream $1.25",
+            "Quantity": 36.0
+        },
+        {
+            "ItemDescription": "hot dog with cheese",
+            "Quantity": 36.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 or x slv 2015",
+            "Quantity": 35.0
+        },
+        {
+            "ItemDescription": "hothands",
+            "Quantity": 35.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour slv",
+            "Quantity": 35.0
+        },
+        {
+            "ItemDescription": "footgolf weekday senior/jr/twilight",
+            "Quantity": 34.0
+        },
+        {
+            "ItemDescription": "can drink -12oz",
+            "Quantity": 33.0
+        },
+        {
+            "ItemDescription": "puma tour glove",
+            "Quantity": 31.0
+        },
+        {
+            "ItemDescription": "bologna w cheese",
+            "Quantity": 31.0
+        },
+        {
+            "ItemDescription": "miller lite/ coors lite (pint) 6pack",
+            "Quantity": 30.0
+        },
+        {
+            "ItemDescription": "seneca towel",
+            "Quantity": 30.0
+        },
+        {
+            "ItemDescription": "horned legend logo shirts",
+            "Quantity": 30.0
+        },
+        {
+            "ItemDescription": "sausage and egg biscuit",
+            "Quantity": 30.0
+        },
+        {
+            "ItemDescription": "stella artois",
+            "Quantity": 29.0
+        },
+        {
+            "ItemDescription": "cigars shawnee logo",
+            "Quantity": 29.0
+        },
+        {
+            "ItemDescription": "club sets",
+            "Quantity": 28.0
+        },
+        {
+            "ItemDescription": "clubhouse damage deposit",
+            "Quantity": 27.0
+        },
+        {
+            "ItemDescription": "maintenance misc. food",
+            "Quantity": 27.0
+        },
+        {
+            "ItemDescription": "kickstart",
+            "Quantity": 27.0
+        },
+        {
+            "ItemDescription": "wd discount book green fee",
+            "Quantity": 27.0
+        },
+        {
+            "ItemDescription": "footgolf weekend twilight",
+            "Quantity": 26.0
+        },
+        {
+            "ItemDescription": "clubhouse rental",
+            "Quantity": 26.0
+        },
+        {
+            "ItemDescription": "misc. cart",
+            "Quantity": 26.0
+        },
+        {
+            "ItemDescription": "coffee - small",
+            "Quantity": 26.0
+        },
+        {
+            "ItemDescription": "footgolf weekend",
+            "Quantity": 25.0
+        },
+        {
+            "ItemDescription": "$1.50 16 oz drink",
+            "Quantity": 25.0
+        },
+        {
+            "ItemDescription": "gum",
+            "Quantity": 25.0
+        },
+        {
+            "ItemDescription": "tee time golf pass green fee",
+            "Quantity": 24.0
+        },
+        {
+            "ItemDescription": "hot dog with chili & cheese",
+            "Quantity": 23.0
+        },
+        {
+            "ItemDescription": "ice cream",
+            "Quantity": 23.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour sleeve",
+            "Quantity": 22.0
+        },
+        {
+            "ItemDescription": "pinnacle gold slv",
+            "Quantity": 22.0
+        },
+        {
+            "ItemDescription": "misc food $9",
+            "Quantity": 22.0
+        },
+        {
+            "ItemDescription": "beer premium - 6pack 12oz",
+            "Quantity": 22.0
+        },
+        {
+            "ItemDescription": "pride professional tee 100ct &75ct",
+            "Quantity": 21.0
+        },
+        {
+            "ItemDescription": "amp/rockstar",
+            "Quantity": 21.0
+        },
+        {
+            "ItemDescription": "heineken/corona 6pack",
+            "Quantity": 21.0
+        },
+        {
+            "ItemDescription": "footgolf weekday regular",
+            "Quantity": 21.0
+        },
+        {
+            "ItemDescription": "coffee - large",
+            "Quantity": 20.0
+        },
+        {
+            "ItemDescription": "tylenol 2 pks",
+            "Quantity": 20.0
+        },
+        {
+            "ItemDescription": "footjoy prodry socks 2pack",
+            "Quantity": 20.0
+        },
+        {
+            "ItemDescription": "titleist velocity sleeve",
+            "Quantity": 20.0
+        },
+        {
+            "ItemDescription": "golf cart rider fee",
+            "Quantity": 19.0
+        },
+        {
+            "ItemDescription": "16oz amp only",
+            "Quantity": 19.0
+        },
+        {
+            "ItemDescription": "bud products 6pack $11",
+            "Quantity": 19.0
+        },
+        {
+            "ItemDescription": "beer 6pack heineken",
+            "Quantity": 19.0
+        },
+        {
+            "ItemDescription": "titleist velocity golf ball dozen",
+            "Quantity": 18.0
+        },
+        {
+            "ItemDescription": "we discount book green fee",
+            "Quantity": 18.0
+        },
+        {
+            "ItemDescription": "titleist velocity slv",
+            "Quantity": 18.0
+        },
+        {
+            "ItemDescription": "metro parks 2016 discount golf book",
+            "Quantity": 18.0
+        },
+        {
+            "ItemDescription": "maxx & epochf sunglasses",
+            "Quantity": 17.0
+        },
+        {
+            "ItemDescription": "callaway extreme 2 pk. glove",
+            "Quantity": 17.0
+        },
+        {
+            "ItemDescription": "specialty 6pack $14.50",
+            "Quantity": 17.0
+        },
+        {
+            "ItemDescription": "coors light pint 6-pack $14.75",
+            "Quantity": 17.0
+        },
+        {
+            "ItemDescription": "hot dog w cheese",
+            "Quantity": 17.0
+        },
+        {
+            "ItemDescription": "bologna and cheese",
+            "Quantity": 16.0
+        },
+        {
+            "ItemDescription": "spectator cart $5.00",
+            "Quantity": 16.0
+        },
+        {
+            "ItemDescription": "corona/corona light",
+            "Quantity": 16.0
+        },
+        {
+            "ItemDescription": "titleist dt  solo slv",
+            "Quantity": 15.0
+        },
+        {
+            "ItemDescription": "bionic performance glove",
+            "Quantity": 15.0
+        },
+        {
+            "ItemDescription": "titleist dt trusoft",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "family golf fee",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "titleist  cap fitted",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "trial set (titleist rent set)",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "winn dri-tac ladies",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 or x -dz 2016",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "family golf cart fee",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "jacket",
+            "Quantity": 14.0
+        },
+        {
+            "ItemDescription": "16 oz ultra 6pack $15.00",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": "champ stinger spikes",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": "super stroke mid slim 2.0/slim 3.0/fatso 5.0",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": ".25 candy",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": "titleist visor women",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": "titleist pro v1x dozen",
+            "Quantity": 13.0
+        },
+        {
+            "ItemDescription": "turkey",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "family we special after 4:30pm",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "shawnee logo divot tool",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 dozen",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "$25 holiday special",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "spectator cart $10.00",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "bridgestone e seris",
+            "Quantity": 12.0
+        },
+        {
+            "ItemDescription": "dbl cheese burger",
+            "Quantity": 11.0
+        },
+        {
+            "ItemDescription": "bionic golf glove classic",
+            "Quantity": 11.0
+        },
+        {
+            "ItemDescription": "kodiak winter gloves",
+            "Quantity": 11.0
+        },
+        {
+            "ItemDescription": "seneca hat clip",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "southern in srs $19.00",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "shoes",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "sale long sleeve jacket",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "groove tube",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "muffins",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "titleist dt  solo - dz",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "footjoy weathersof 2pack gloves",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "$14.00 cart fee",
+            "Quantity": 10.0
+        },
+        {
+            "ItemDescription": "sr/twilight 18 cart",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "footgolf matinee 4-6",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "miscellaneous  - golf clubs",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "titleist collegiate fitted 2015",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "titleist cap shawnee logo",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour dozen",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "cigarettes",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "$4 food special 1",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "michelob ultra",
+            "Quantity": 9.0
+        },
+        {
+            "ItemDescription": "lime-a-rita",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "titleist velocity- dz",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "titleist uk/ul hat",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "range summer special",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "michelob ultra 6pack",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "berrmuda sands logo shirt",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s dozen",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "beer 6pack stella",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "beer 6pack dos equis",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "golf pride cp2 pro/ super tack midsize",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "nike dri-fit no show socks",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "golf pride tour velvet jumbo grip",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "drink - refill",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "taylor made caps",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "tee time winter",
+            "Quantity": 8.0
+        },
+        {
+            "ItemDescription": "puma caps",
+            "Quantity": 7.0
+        },
+        {
+            "ItemDescription": "raincheck redeemed",
+            "Quantity": 7.0
+        },
+        {
+            "ItemDescription": "tee time weekday 12-4 pm",
+            "Quantity": 7.0
+        },
+        {
+            "ItemDescription": "pork loin sandwich",
+            "Quantity": 7.0
+        },
+        {
+            "ItemDescription": "tees $0.50",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "handicap fee",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "ham sandwich",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "footjoy shirt",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour   or s- dz",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "cup ice water",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "extra cheese",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "nike air rivel 4 new",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "par 3 18 hole cart",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "$2.00 beer",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "callaway cap adj",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "coors light 6pack special",
+            "Quantity": 6.0
+        },
+        {
+            "ItemDescription": "titleist bond tech hat",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "sale caps",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "titleist ear bands",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "ray cook putters",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "nike all weather glove",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "nike explorer sl shoes",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "pride professional 4 inch tee",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "misc food $.30 or $.60",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "footjoy junior gloves",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "beer league 16oz - 6pack - $13",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "martini tee",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "hornungs groove brush",
+            "Quantity": 5.0
+        },
+        {
+            "ItemDescription": "titleist jersey hat",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "titleist microfiber towel",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof 3pack",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "titleist cubic mesh hat",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "miscellaneous  -men's apparel",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "nike fi impact sale",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "titleist stadry hat",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "titleist winter earmuffs",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "titleist  caps",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "donuts",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "gift certificate",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "miscellaneous- merch.",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "ping caps",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "champ pro soft brush",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "ball eagle retriever",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "callaway cg bucket hat",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "$10 6-pack special",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "hornungs groove tube",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "-  9 holes",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "winter gloves",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "winter jr green fee",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "$6.00 lunch special",
+            "Quantity": 4.0
+        },
+        {
+            "ItemDescription": "winn pro 1.60",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist velocity dozen",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "ping camo hat",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "tees $1",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "pb&j or cheese sandwich",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "tees-30pack",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "guinness/stella 6pack",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist beanie winter hat",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "nike mojo balls dbl. dozen",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "gift card",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "misc cart rental",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist dt solo sleeve",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "nike air range wp shoes",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist golf hat",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "hornungs umbrella",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "golfer's sun screen",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "golfer's lips chap stick",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s dozen (yellow)",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "winter jr fee",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "ping diamond towel",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof socks(black)",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist winter hat pom pom",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "titleist sm6 wedges",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "winnpro 1.32 & 1.18 putter grip",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "towels",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "new balance ladies minimus sports",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "ping shoe bag",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "sale shawnee logo straw hat",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "range teaching basket",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "ping golf glove",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "seneca logo hats",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "star wars head cover",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "rain gear",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "team golf millitary towel",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "egg sandwich",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "sale monterey ladies tops",
+            "Quantity": 3.0
+        },
+        {
+            "ItemDescription": "ping patch structured hat",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "titleist pompom hat",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "monterey club men's polo",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "shawnee pepper dog",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "golf pride tour wrap 2g blue/black",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "rain check cart",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "pinnacle gold 15pack",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "miscellaneous  - golf balls",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "special order -clubs",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "family golf cart",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "misc. food $8",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "new balance minimus sport shoe",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "puma men's golf ace shoe",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "titleist tour performance hat",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "mikes hard lemonade",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "team golf putter cover",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "footjoy ladies mproject shoes",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "2 for 20 gloves",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "sofjoy glove",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "cup",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "ping g25 structured hat",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "callaway chrome soft dz",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "rain hood clear pvc",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "green fee special event",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "nike air rival lll sale",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "sale short sleeve windshirt",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "ping hat clips",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "team golf headcover 3-pack",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "dbl hamburger",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "deli sandwich",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "can drink",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "sale shawnee logo bucket",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "ping bonnie hat",
+            "Quantity": 2.0
+        },
+        {
+            "ItemDescription": "clubhouse rental - employee",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy shorts",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "cheese burger double decker",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "grips never bend putter",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "socks",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy rain gloves",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "yoohoo",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "callaway chev stand bag",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "dryjoys casuals golf shoes",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "gift cert / rain check cart",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "twist-off beer 6 pack $13",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "bionic glove",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "rain check cart 18 issued",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "us kids golf glove",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "us tour glove",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "pure leaf tea",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "champ spike pro wrench",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "maxx sunglasses",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "comfort sof crew socks",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "range balls - large",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "callaway sport hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "majek sandals",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "locker fee",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "line m up ball marker",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "golf pride cp2 wrap (midsize)",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleistt hand warmer",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "golf shoes",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "rain check cart 9 $6.00 issued",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "tom's chip",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "powerbilt junior gloves",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist winter hat striped",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist needle point bucket hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "nike dri-fit  crew socks",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "ping lady sport visor",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist contrast stitch hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "ping kp cap",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist cart mitts",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist cart bag 9.5",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "nike lunar empress ldies shoe",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist bucket hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "sun mountain thermal red",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist back sack",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist aussie hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist 915 driver",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist 816 hybrid",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist 716 ap1 irons 4-uw",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "nyx kele sunglasses",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "taylormade spiort stratus glove",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "odyssey rx white hot putter",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "2016 montery polo",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "chip - $1.50",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "cigar 8.90 romeo & julieta",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "pimento salad basket",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "soup",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "regular outing",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "ping tri fold towel",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "power bilt drivers",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist visors",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy m:project golf shoes 2015",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist visor men",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy m:project golf shoes",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy m-projects spikeless golf shoe",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "misc food item $1.75",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist umbrella",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy junior shoes",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist towel staff",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist towel players",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "special order - mens apparel",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "titleist qmax hat",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy hydrolite shoe",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy contour casual",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof women",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "miscellaneous  -shoes",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "ping zing putter",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "ping visor",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "nan",
+            "Quantity": 1.0
+        },
+        {
+            "ItemDescription": "master preview louis mcdonald",
+            "Quantity": 0.0
+        },
+        {
+            "ItemDescription": "staff hamburgers",
+            "Quantity": 0.0
+        },
+        {
+            "ItemDescription": "staff dogs",
+            "Quantity": 0.0
+        },
+        {
+            "ItemDescription": "staff fee",
+            "Quantity": -36.0
+        }
+    ],
+    "bestSellingByAmount": [
+        {
+            "ItemDescription": "golf cart 1/2 18 holes",
+            "TotalSaleAmount": 307993.0
+        },
+        {
+            "ItemDescription": "we green fee",
+            "TotalSaleAmount": 285111.0
+        },
+        {
+            "ItemDescription": "wd green fee",
+            "TotalSaleAmount": 175699.0
+        },
+        {
+            "ItemDescription": "senior green fee",
+            "TotalSaleAmount": 118219.0
+        },
+        {
+            "ItemDescription": "golf cart 1/2 9 hole",
+            "TotalSaleAmount": 115027.0
+        },
+        {
+            "ItemDescription": "golf cart annual fee",
+            "TotalSaleAmount": 83221.0
+        },
+        {
+            "ItemDescription": "matinee green fee",
+            "TotalSaleAmount": 75653.0
+        },
+        {
+            "ItemDescription": "misc merchandise",
+            "TotalSaleAmount": 75652.0
+        },
+        {
+            "ItemDescription": "golf cart 1/2 18 holes we",
+            "TotalSaleAmount": 74086.0
+        },
+        {
+            "ItemDescription": "18 hole 1/2 cart",
+            "TotalSaleAmount": 44420.0
+        },
+        {
+            "ItemDescription": "wd twilight green fee",
+            "TotalSaleAmount": 39775.0
+        },
+        {
+            "ItemDescription": "9 hole 1/2 cart",
+            "TotalSaleAmount": 35490.0
+        },
+        {
+            "ItemDescription": "adult annual green fee",
+            "TotalSaleAmount": 32112.0
+        },
+        {
+            "ItemDescription": "golf cart tee pass 1/2 18 hole",
+            "TotalSaleAmount": 30375.0
+        },
+        {
+            "ItemDescription": "range balls",
+            "TotalSaleAmount": 28650.0
+        },
+        {
+            "ItemDescription": "regular 6pack $11.00",
+            "TotalSaleAmount": 28116.0
+        },
+        {
+            "ItemDescription": "winter we greenfee",
+            "TotalSaleAmount": 27507.0
+        },
+        {
+            "ItemDescription": "twilight green fee",
+            "TotalSaleAmount": 26155.0
+        },
+        {
+            "ItemDescription": "key deposit",
+            "TotalSaleAmount": 21496.0
+        },
+        {
+            "ItemDescription": "wd senior green fee",
+            "TotalSaleAmount": 20817.0
+        },
+        {
+            "ItemDescription": "beer 6pack $12.50",
+            "TotalSaleAmount": 20416.0
+        },
+        {
+            "ItemDescription": "wd sr. green fee7-2pm",
+            "TotalSaleAmount": 19808.0
+        },
+        {
+            "ItemDescription": "we twilight green fee",
+            "TotalSaleAmount": 18133.0
+        },
+        {
+            "ItemDescription": "hot dog",
+            "TotalSaleAmount": 18015.0
+        },
+        {
+            "ItemDescription": "balls",
+            "TotalSaleAmount": 16393.0
+        },
+        {
+            "ItemDescription": "reg 9 cart",
+            "TotalSaleAmount": 15791.0
+        },
+        {
+            "ItemDescription": "we annual green fee",
+            "TotalSaleAmount": 15494.0
+        },
+        {
+            "ItemDescription": "gatorade",
+            "TotalSaleAmount": 14102.0
+        },
+        {
+            "ItemDescription": "winter twilight",
+            "TotalSaleAmount": 13448.0
+        },
+        {
+            "ItemDescription": "beer - 6pack 12oz",
+            "TotalSaleAmount": 12957.0
+        },
+        {
+            "ItemDescription": "beer",
+            "TotalSaleAmount": 12676.0
+        },
+        {
+            "ItemDescription": "gift card add value",
+            "TotalSaleAmount": 11718.0
+        },
+        {
+            "ItemDescription": "large drink",
+            "TotalSaleAmount": 11512.0
+        },
+        {
+            "ItemDescription": "junior green fee",
+            "TotalSaleAmount": 11339.0
+        },
+        {
+            "ItemDescription": "miller lite 6pack $11.25",
+            "TotalSaleAmount": 11232.0
+        },
+        {
+            "ItemDescription": "winter senior green fee",
+            "TotalSaleAmount": 10904.0
+        },
+        {
+            "ItemDescription": "misc food item",
+            "TotalSaleAmount": 10764.0
+        },
+        {
+            "ItemDescription": "winter we green fee",
+            "TotalSaleAmount": 10692.0
+        },
+        {
+            "ItemDescription": "matinee green fee 4-6 pm",
+            "TotalSaleAmount": 10260.0
+        },
+        {
+            "ItemDescription": "winter weekend",
+            "TotalSaleAmount": 9506.0
+        },
+        {
+            "ItemDescription": "trail fee",
+            "TotalSaleAmount": 9224.0
+        },
+        {
+            "ItemDescription": "20oz bottle",
+            "TotalSaleAmount": 8566.0
+        },
+        {
+            "ItemDescription": "range balls- large",
+            "TotalSaleAmount": 8208.0
+        },
+        {
+            "ItemDescription": "beer 6 pk $11.00 - domestic/rolling rock",
+            "TotalSaleAmount": 8206.0
+        },
+        {
+            "ItemDescription": "club sets",
+            "TotalSaleAmount": 7761.0
+        },
+        {
+            "ItemDescription": "20 oz soft/propel/gatorades",
+            "TotalSaleAmount": 7528.0
+        },
+        {
+            "ItemDescription": "bottled soda/ gatorade",
+            "TotalSaleAmount": 7474.0
+        },
+        {
+            "ItemDescription": "cheese burger",
+            "TotalSaleAmount": 7169.0
+        },
+        {
+            "ItemDescription": "member 18 1/2 cart $12.00",
+            "TotalSaleAmount": 7104.0
+        },
+        {
+            "ItemDescription": "clubhouse rental",
+            "TotalSaleAmount": 6500.0
+        },
+        {
+            "ItemDescription": "regular beer $2.25",
+            "TotalSaleAmount": 6110.0
+        },
+        {
+            "ItemDescription": "winter wd green fee",
+            "TotalSaleAmount": 6041.0
+        },
+        {
+            "ItemDescription": "beer 6pack",
+            "TotalSaleAmount": 5964.0
+        },
+        {
+            "ItemDescription": "member 9 1/2 cart $7.00",
+            "TotalSaleAmount": 5719.0
+        },
+        {
+            "ItemDescription": "misc. merch",
+            "TotalSaleAmount": 5628.0
+        },
+        {
+            "ItemDescription": "range - large bucket",
+            "TotalSaleAmount": 5595.0
+        },
+        {
+            "ItemDescription": "reg 18 cart",
+            "TotalSaleAmount": 5453.0
+        },
+        {
+            "ItemDescription": "a titleist logo balls",
+            "TotalSaleAmount": 5440.0
+        },
+        {
+            "ItemDescription": "clubhouse damage deposit",
+            "TotalSaleAmount": 5400.0
+        },
+        {
+            "ItemDescription": "coors light 6pack $11",
+            "TotalSaleAmount": 5347.0
+        },
+        {
+            "ItemDescription": "weekend 9 hole cart",
+            "TotalSaleAmount": 5008.0
+        },
+        {
+            "ItemDescription": "candy",
+            "TotalSaleAmount": 4911.0
+        },
+        {
+            "ItemDescription": "brat / polish / hot mama /sd",
+            "TotalSaleAmount": 4830.0
+        },
+        {
+            "ItemDescription": "bratwurst",
+            "TotalSaleAmount": 4818.0
+        },
+        {
+            "ItemDescription": "beer 12oz",
+            "TotalSaleAmount": 4721.0
+        },
+        {
+            "ItemDescription": "misc. food $10.00",
+            "TotalSaleAmount": 4556.0
+        },
+        {
+            "ItemDescription": "cart special",
+            "TotalSaleAmount": 4479.0
+        },
+        {
+            "ItemDescription": "bottled water",
+            "TotalSaleAmount": 4240.0
+        },
+        {
+            "ItemDescription": "gloves",
+            "TotalSaleAmount": 4211.0
+        },
+        {
+            "ItemDescription": "misc food item $12",
+            "TotalSaleAmount": 3829.0
+        },
+        {
+            "ItemDescription": "golf cart spectator - 18 holes",
+            "TotalSaleAmount": 3820.0
+        },
+        {
+            "ItemDescription": "range balls- small",
+            "TotalSaleAmount": 3743.0
+        },
+        {
+            "ItemDescription": "coors 6pack $10.00",
+            "TotalSaleAmount": 3560.0
+        },
+        {
+            "ItemDescription": "bottled drink",
+            "TotalSaleAmount": 3437.0
+        },
+        {
+            "ItemDescription": "miller lite $2.25",
+            "TotalSaleAmount": 3364.0
+        },
+        {
+            "ItemDescription": "weekend 18 hole cart",
+            "TotalSaleAmount": 3364.0
+        },
+        {
+            "ItemDescription": "bottled soda",
+            "TotalSaleAmount": 3344.0
+        },
+        {
+            "ItemDescription": "chip",
+            "TotalSaleAmount": 3336.0
+        },
+        {
+            "ItemDescription": "small drink",
+            "TotalSaleAmount": 3206.0
+        },
+        {
+            "ItemDescription": "southern indianasrs $23.00",
+            "TotalSaleAmount": 2972.0
+        },
+        {
+            "ItemDescription": "6 pack special $9.50",
+            "TotalSaleAmount": 2811.0
+        },
+        {
+            "ItemDescription": "youth course adult",
+            "TotalSaleAmount": 2592.0
+        },
+        {
+            "ItemDescription": "misc. merchandise",
+            "TotalSaleAmount": 2506.0
+        },
+        {
+            "ItemDescription": "beer $ 2.25 - domestic",
+            "TotalSaleAmount": 2486.0
+        },
+        {
+            "ItemDescription": "golf cart spectator -  9 holes",
+            "TotalSaleAmount": 2425.0
+        },
+        {
+            "ItemDescription": "winter senior wd green fee",
+            "TotalSaleAmount": 2376.0
+        },
+        {
+            "ItemDescription": "miscellaneous  - golf clubs",
+            "TotalSaleAmount": 2308.0
+        },
+        {
+            "ItemDescription": "wd annual green fee 5 day",
+            "TotalSaleAmount": 2284.0
+        },
+        {
+            "ItemDescription": "misc. food $6.00",
+            "TotalSaleAmount": 2210.0
+        },
+        {
+            "ItemDescription": "range - medium bucket",
+            "TotalSaleAmount": 2184.0
+        },
+        {
+            "ItemDescription": "outing hot key",
+            "TotalSaleAmount": 2088.0
+        },
+        {
+            "ItemDescription": "misc. merchandise $10",
+            "TotalSaleAmount": 2083.0
+        },
+        {
+            "ItemDescription": "chip / candy / peanuts / granola / fruit",
+            "TotalSaleAmount": 2079.0
+        },
+        {
+            "ItemDescription": "wd annual green fee",
+            "TotalSaleAmount": 2054.0
+        },
+        {
+            "ItemDescription": "range - small bucket",
+            "TotalSaleAmount": 2050.0
+        },
+        {
+            "ItemDescription": "chicken salad",
+            "TotalSaleAmount": 2030.0
+        },
+        {
+            "ItemDescription": "winter weekdays",
+            "TotalSaleAmount": 1925.0
+        },
+        {
+            "ItemDescription": "20 oz aquafina water",
+            "TotalSaleAmount": 1905.0
+        },
+        {
+            "ItemDescription": "beer 6 pk $8.00 - coors",
+            "TotalSaleAmount": 1870.0
+        },
+        {
+            "ItemDescription": "junior annual green fee",
+            "TotalSaleAmount": 1682.0
+        },
+        {
+            "ItemDescription": "pullcart",
+            "TotalSaleAmount": 1631.0
+        },
+        {
+            "ItemDescription": "coors $2.00",
+            "TotalSaleAmount": 1626.0
+        },
+        {
+            "ItemDescription": "2nd nine cart $6.00",
+            "TotalSaleAmount": 1608.0
+        },
+        {
+            "ItemDescription": "golf discount book",
+            "TotalSaleAmount": 1600.0
+        },
+        {
+            "ItemDescription": "aquafina",
+            "TotalSaleAmount": 1597.0
+        },
+        {
+            "ItemDescription": "misc. cart fee",
+            "TotalSaleAmount": 1552.0
+        },
+        {
+            "ItemDescription": "discount book-trail pass",
+            "TotalSaleAmount": 1550.0
+        },
+        {
+            "ItemDescription": "beer $3.00 imp/16oz btl/rita's",
+            "TotalSaleAmount": 1491.0
+        },
+        {
+            "ItemDescription": "beer 16oz",
+            "TotalSaleAmount": 1457.0
+        },
+        {
+            "ItemDescription": "tuna salad",
+            "TotalSaleAmount": 1409.0
+        },
+        {
+            "ItemDescription": "outing food",
+            "TotalSaleAmount": 1398.0
+        },
+        {
+            "ItemDescription": "coffee",
+            "TotalSaleAmount": 1381.0
+        },
+        {
+            "ItemDescription": "sausage",
+            "TotalSaleAmount": 1336.0
+        },
+        {
+            "ItemDescription": "crackers",
+            "TotalSaleAmount": 1333.0
+        },
+        {
+            "ItemDescription": "sheehan family",
+            "TotalSaleAmount": 1296.0
+        },
+        {
+            "ItemDescription": "we annual green fee 7 day",
+            "TotalSaleAmount": 1276.0
+        },
+        {
+            "ItemDescription": "golf cart tee time book",
+            "TotalSaleAmount": 1230.0
+        },
+        {
+            "ItemDescription": "tees $1.00",
+            "TotalSaleAmount": 1225.0
+        },
+        {
+            "ItemDescription": "extra holes cart",
+            "TotalSaleAmount": 1208.0
+        },
+        {
+            "ItemDescription": "hamburger",
+            "TotalSaleAmount": 1192.0
+        },
+        {
+            "ItemDescription": "premium 6pack $13.00",
+            "TotalSaleAmount": 1183.0
+        },
+        {
+            "ItemDescription": "par 3 nine hole cart",
+            "TotalSaleAmount": 1170.0
+        },
+        {
+            "ItemDescription": "fountain - large",
+            "TotalSaleAmount": 1160.0
+        },
+        {
+            "ItemDescription": "chip $1.50",
+            "TotalSaleAmount": 1157.0
+        },
+        {
+            "ItemDescription": "additional holes",
+            "TotalSaleAmount": 1144.0
+        },
+        {
+            "ItemDescription": "beer league 12oz - 6pack - $10",
+            "TotalSaleAmount": 1120.0
+        },
+        {
+            "ItemDescription": "beer 6 pk/ imp /16 ozbtl/ rita's/ corona/hei",
+            "TotalSaleAmount": 1110.0
+        },
+        {
+            "ItemDescription": "9 hole twilight cart",
+            "TotalSaleAmount": 1098.0
+        },
+        {
+            "ItemDescription": "candy bars",
+            "TotalSaleAmount": 1077.0
+        },
+        {
+            "ItemDescription": "rental clubs",
+            "TotalSaleAmount": 1053.0
+        },
+        {
+            "ItemDescription": "club repair",
+            "TotalSaleAmount": 1051.0
+        },
+        {
+            "ItemDescription": "golf cart $12.00 cards",
+            "TotalSaleAmount": 1034.0
+        },
+        {
+            "ItemDescription": "$5.00 special",
+            "TotalSaleAmount": 1025.0
+        },
+        {
+            "ItemDescription": "footjoy weathersof glove",
+            "TotalSaleAmount": 1025.0
+        },
+        {
+            "ItemDescription": "misc drink",
+            "TotalSaleAmount": 994.0
+        },
+        {
+            "ItemDescription": "misc. food item",
+            "TotalSaleAmount": 969.0
+        },
+        {
+            "ItemDescription": "medium drink",
+            "TotalSaleAmount": 966.0
+        },
+        {
+            "ItemDescription": "beer 6 pk ultra/ lime",
+            "TotalSaleAmount": 949.0
+        },
+        {
+            "ItemDescription": "misc club repair & grips",
+            "TotalSaleAmount": 945.0
+        },
+        {
+            "ItemDescription": "16 oz coors / miller  6pack $15.00",
+            "TotalSaleAmount": 945.0
+        },
+        {
+            "ItemDescription": "cart add on $6.00",
+            "TotalSaleAmount": 944.0
+        },
+        {
+            "ItemDescription": "misc food / drink",
+            "TotalSaleAmount": 936.0
+        },
+        {
+            "ItemDescription": "titleist glove",
+            "TotalSaleAmount": 912.0
+        },
+        {
+            "ItemDescription": "metro parks golf discount book",
+            "TotalSaleAmount": 900.0
+        },
+        {
+            "ItemDescription": "pinnacle soft/rush (5 sleeves)",
+            "TotalSaleAmount": 900.0
+        },
+        {
+            "ItemDescription": "mich ultra 6pack $12.50",
+            "TotalSaleAmount": 888.0
+        },
+        {
+            "ItemDescription": "winter  twilight green fee",
+            "TotalSaleAmount": 882.0
+        },
+        {
+            "ItemDescription": "beer - 16oz",
+            "TotalSaleAmount": 852.0
+        },
+        {
+            "ItemDescription": "titleist 716 ap1 irons 4-uw",
+            "TotalSaleAmount": 850.0
+        },
+        {
+            "ItemDescription": "$6.00 food and bev. tickets",
+            "TotalSaleAmount": 840.0
+        },
+        {
+            "ItemDescription": "bratwurst / polish",
+            "TotalSaleAmount": 832.0
+        },
+        {
+            "ItemDescription": "bud products $2.25",
+            "TotalSaleAmount": 830.0
+        },
+        {
+            "ItemDescription": "beer $ 3.75 - 25oz",
+            "TotalSaleAmount": 822.0
+        },
+        {
+            "ItemDescription": "coffee lg",
+            "TotalSaleAmount": 813.0
+        },
+        {
+            "ItemDescription": "titleist permasoft glove",
+            "TotalSaleAmount": 797.0
+        },
+        {
+            "ItemDescription": "golf cart st stevens -  18 holes",
+            "TotalSaleAmount": 793.0
+        },
+        {
+            "ItemDescription": "pinnacle rush & soft dz",
+            "TotalSaleAmount": 782.0
+        },
+        {
+            "ItemDescription": "bottled beer or pints $2.75",
+            "TotalSaleAmount": 748.0
+        },
+        {
+            "ItemDescription": "drink - medium",
+            "TotalSaleAmount": 746.0
+        },
+        {
+            "ItemDescription": "tee time seniors",
+            "TotalSaleAmount": 738.0
+        },
+        {
+            "ItemDescription": "pull cart rental",
+            "TotalSaleAmount": 723.0
+        },
+        {
+            "ItemDescription": "beer - coors",
+            "TotalSaleAmount": 722.0
+        },
+        {
+            "ItemDescription": "pull cart",
+            "TotalSaleAmount": 711.0
+        },
+        {
+            "ItemDescription": "turkey and cheese",
+            "TotalSaleAmount": 692.0
+        },
+        {
+            "ItemDescription": "16 oz coors / miller $3.00",
+            "TotalSaleAmount": 681.0
+        },
+        {
+            "ItemDescription": "golf cart st stevens -  9 holes",
+            "TotalSaleAmount": 672.0
+        },
+        {
+            "ItemDescription": "misc food $5",
+            "TotalSaleAmount": 650.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 sleeve",
+            "TotalSaleAmount": 650.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 or x -dz 2016",
+            "TotalSaleAmount": 645.0
+        },
+        {
+            "ItemDescription": "titleist pro v1x dozen",
+            "TotalSaleAmount": 637.0
+        },
+        {
+            "ItemDescription": "tees - 15pack/divot tool",
+            "TotalSaleAmount": 630.0
+        },
+        {
+            "ItemDescription": "misc. food guest day",
+            "TotalSaleAmount": 621.0
+        },
+        {
+            "ItemDescription": "beer 16oz - 6pack",
+            "TotalSaleAmount": 612.0
+        },
+        {
+            "ItemDescription": "special price 6-pack",
+            "TotalSaleAmount": 612.0
+        },
+        {
+            "ItemDescription": "smoked sausage",
+            "TotalSaleAmount": 603.0
+        },
+        {
+            "ItemDescription": "titleist pro v 1x sleeve",
+            "TotalSaleAmount": 598.0
+        },
+        {
+            "ItemDescription": "horned legend logo shirts",
+            "TotalSaleAmount": 595.0
+        },
+        {
+            "ItemDescription": "chicken or tuna salad sandwich",
+            "TotalSaleAmount": 594.0
+        },
+        {
+            "ItemDescription": "danish",
+            "TotalSaleAmount": 589.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 dozen",
+            "TotalSaleAmount": 588.0
+        },
+        {
+            "ItemDescription": "heineken",
+            "TotalSaleAmount": 582.0
+        },
+        {
+            "ItemDescription": "titleist velocity golf ball dozen",
+            "TotalSaleAmount": 576.0
+        },
+        {
+            "ItemDescription": "premium $2.65",
+            "TotalSaleAmount": 564.0
+        },
+        {
+            "ItemDescription": "ham and cheese",
+            "TotalSaleAmount": 560.0
+        },
+        {
+            "ItemDescription": "club rental",
+            "TotalSaleAmount": 550.0
+        },
+        {
+            "ItemDescription": "youth course jr (13 - 18)",
+            "TotalSaleAmount": 548.0
+        },
+        {
+            "ItemDescription": "sausage or bacon egg sandwich",
+            "TotalSaleAmount": 544.0
+        },
+        {
+            "ItemDescription": "hats",
+            "TotalSaleAmount": 541.0
+        },
+        {
+            "ItemDescription": "special order -clubs",
+            "TotalSaleAmount": 528.0
+        },
+        {
+            "ItemDescription": "drink - regular",
+            "TotalSaleAmount": 527.0
+        },
+        {
+            "ItemDescription": "chip $1.00",
+            "TotalSaleAmount": 513.0
+        },
+        {
+            "ItemDescription": "rider fee $5.00",
+            "TotalSaleAmount": 500.0
+        },
+        {
+            "ItemDescription": "beer 6pack 16oz",
+            "TotalSaleAmount": 494.0
+        },
+        {
+            "ItemDescription": "shoes",
+            "TotalSaleAmount": 483.0
+        },
+        {
+            "ItemDescription": "cheese burger or hamburger",
+            "TotalSaleAmount": 473.0
+        },
+        {
+            "ItemDescription": "pinnacle rush 3pack",
+            "TotalSaleAmount": 470.0
+        },
+        {
+            "ItemDescription": "coors light pint $2.75",
+            "TotalSaleAmount": 464.0
+        },
+        {
+            "ItemDescription": "beer league 12oz - $2",
+            "TotalSaleAmount": 460.0
+        },
+        {
+            "ItemDescription": "cookies / muffins/ donuts",
+            "TotalSaleAmount": 456.0
+        },
+        {
+            "ItemDescription": "titleist pro v1 or x slv 2015",
+            "TotalSaleAmount": 452.0
+        },
+        {
+            "ItemDescription": "range summer special",
+            "TotalSaleAmount": 452.0
+        },
+        {
+            "ItemDescription": "metro parks 2016 discount golf book",
+            "TotalSaleAmount": 450.0
+        },
+        {
+            "ItemDescription": "miller lite/ coors lite (pint) 6pack",
+            "TotalSaleAmount": 450.0
+        },
+        {
+            "ItemDescription": "youth course sr",
+            "TotalSaleAmount": 450.0
+        },
+        {
+            "ItemDescription": "cart add on $6.50 we",
+            "TotalSaleAmount": 444.0
+        },
+        {
+            "ItemDescription": "chili dog",
+            "TotalSaleAmount": 442.0
+        },
+        {
+            "ItemDescription": "energy drink",
+            "TotalSaleAmount": 438.0
+        },
+        {
+            "ItemDescription": "misc food $4",
+            "TotalSaleAmount": 436.0
+        },
+        {
+            "ItemDescription": "nike air rivel 4 new",
+            "TotalSaleAmount": 435.0
+        },
+        {
+            "ItemDescription": "bionic performance glove",
+            "TotalSaleAmount": 429.0
+        },
+        {
+            "ItemDescription": "coors grande",
+            "TotalSaleAmount": 426.0
+        },
+        {
+            "ItemDescription": "ping shoe bag",
+            "TotalSaleAmount": 425.0
+        },
+        {
+            "ItemDescription": "matinee 9 hole cart",
+            "TotalSaleAmount": 424.0
+        },
+        {
+            "ItemDescription": "cliff or power bar",
+            "TotalSaleAmount": 420.0
+        },
+        {
+            "ItemDescription": "trial set (titleist rent set)",
+            "TotalSaleAmount": 420.0
+        },
+        {
+            "ItemDescription": "beer $ 2.75 ultra/lime/rolling rock",
+            "TotalSaleAmount": 418.0
+        },
+        {
+            "ItemDescription": "misc food $1",
+            "TotalSaleAmount": 416.0
+        },
+        {
+            "ItemDescription": "titleist sm6 wedges",
+            "TotalSaleAmount": 415.0
+        },
+        {
+            "ItemDescription": "beer premium",
+            "TotalSaleAmount": 414.0
+        },
+        {
+            "ItemDescription": "staff candy",
+            "TotalSaleAmount": 402.0
+        },
+        {
+            "ItemDescription": "titleist 915 driver",
+            "TotalSaleAmount": 400.0
+        },
+        {
+            "ItemDescription": "mich ultra $2.50",
+            "TotalSaleAmount": 398.0
+        },
+        {
+            "ItemDescription": "misc food $3",
+            "TotalSaleAmount": 393.0
+        },
+        {
+            "ItemDescription": "bologna w/ cheese",
+            "TotalSaleAmount": 390.0
+        },
+        {
+            "ItemDescription": "titleist dt trusoft",
+            "TotalSaleAmount": 386.0
+        },
+        {
+            "ItemDescription": "seneca towel",
+            "TotalSaleAmount": 385.0
+        },
+        {
+            "ItemDescription": "special drink price",
+            "TotalSaleAmount": 380.0
+        },
+        {
+            "ItemDescription": "bar b que",
+            "TotalSaleAmount": 375.0
+        },
+        {
+            "ItemDescription": "pinnacle rush & soft slv.",
+            "TotalSaleAmount": 371.0
+        },
+        {
+            "ItemDescription": "a titleist logo balls $10",
+            "TotalSaleAmount": 370.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s sleeve",
+            "TotalSaleAmount": 368.0
+        },
+        {
+            "ItemDescription": "coffee reg. size 12 oz",
+            "TotalSaleAmount": 364.0
+        },
+        {
+            "ItemDescription": "super stroke mid slim 2.0/slim 3.0/fatso 5.0",
+            "TotalSaleAmount": 364.0
+        },
+        {
+            "ItemDescription": "amber bock",
+            "TotalSaleAmount": 362.0
+        },
+        {
+            "ItemDescription": "turkey w/cheese",
+            "TotalSaleAmount": 360.0
+        },
+        {
+            "ItemDescription": "sausage biscuit",
+            "TotalSaleAmount": 360.0
+        },
+        {
+            "ItemDescription": "nike fi impact sale",
+            "TotalSaleAmount": 350.0
+        },
+        {
+            "ItemDescription": "nike explorer sl shoes",
+            "TotalSaleAmount": 345.0
+        },
+        {
+            "ItemDescription": "16 oz ultra $3.00",
+            "TotalSaleAmount": 345.0
+        },
+        {
+            "ItemDescription": "puma tour glove",
+            "TotalSaleAmount": 341.0
+        },
+        {
+            "ItemDescription": "coors light $2.25",
+            "TotalSaleAmount": 340.0
+        },
+        {
+            "ItemDescription": "nike air range wp shoes",
+            "TotalSaleAmount": 340.0
+        },
+        {
+            "ItemDescription": "logo ball",
+            "TotalSaleAmount": 334.0
+        },
+        {
+            "ItemDescription": "beer premium - 6pack 12oz",
+            "TotalSaleAmount": 333.0
+        },
+        {
+            "ItemDescription": "arnold palmer",
+            "TotalSaleAmount": 327.0
+        },
+        {
+            "ItemDescription": "stella artois beer",
+            "TotalSaleAmount": 327.0
+        },
+        {
+            "ItemDescription": "footgolf weekend",
+            "TotalSaleAmount": 325.0
+        },
+        {
+            "ItemDescription": "$25 holiday special",
+            "TotalSaleAmount": 324.0
+        },
+        {
+            "ItemDescription": "bridgestone e seris",
+            "TotalSaleAmount": 324.0
+        },
+        {
+            "ItemDescription": "callaway extreme 2 pk. glove",
+            "TotalSaleAmount": 323.0
+        },
+        {
+            "ItemDescription": "jacket",
+            "TotalSaleAmount": 322.0
+        },
+        {
+            "ItemDescription": "pinnacle soft 3pack",
+            "TotalSaleAmount": 320.0
+        },
+        {
+            "ItemDescription": "titleist  cap fitted",
+            "TotalSaleAmount": 316.0
+        },
+        {
+            "ItemDescription": "heineken/corona 6pack",
+            "TotalSaleAmount": 315.0
+        },
+        {
+            "ItemDescription": "bologna",
+            "TotalSaleAmount": 312.0
+        },
+        {
+            "ItemDescription": "peanuts",
+            "TotalSaleAmount": 312.0
+        },
+        {
+            "ItemDescription": "maxx & epochf sunglasses",
+            "TotalSaleAmount": 310.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour slv",
+            "TotalSaleAmount": 309.0
+        },
+        {
+            "ItemDescription": "beer special $1.75",
+            "TotalSaleAmount": 309.0
+        },
+        {
+            "ItemDescription": "extra 9 cart $7.00",
+            "TotalSaleAmount": 301.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour dozen",
+            "TotalSaleAmount": 301.0
+        },
+        {
+            "ItemDescription": "range balls - large",
+            "TotalSaleAmount": 300.0
+        },
+        {
+            "ItemDescription": "egg salad sandwich",
+            "TotalSaleAmount": 297.0
+        },
+        {
+            "ItemDescription": "family we special after 4:30pm",
+            "TotalSaleAmount": 290.0
+        },
+        {
+            "ItemDescription": "misc. rental clubs set",
+            "TotalSaleAmount": 290.0
+        },
+        {
+            "ItemDescription": "ice cream $2.00",
+            "TotalSaleAmount": 283.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s dozen",
+            "TotalSaleAmount": 281.0
+        },
+        {
+            "ItemDescription": "titleist dt trusoft sleeve",
+            "TotalSaleAmount": 279.0
+        },
+        {
+            "ItemDescription": "sale long sleeve jacket",
+            "TotalSaleAmount": 278.0
+        },
+        {
+            "ItemDescription": "bionic golf glove classic",
+            "TotalSaleAmount": 275.0
+        },
+        {
+            "ItemDescription": "matinee 18 hole cart",
+            "TotalSaleAmount": 275.0
+        },
+        {
+            "ItemDescription": "dos equis",
+            "TotalSaleAmount": 271.0
+        },
+        {
+            "ItemDescription": "beer 6pack heineken",
+            "TotalSaleAmount": 266.0
+        },
+        {
+            "ItemDescription": "tee time golf pass green fee",
+            "TotalSaleAmount": 264.0
+        },
+        {
+            "ItemDescription": "titleist visor women",
+            "TotalSaleAmount": 264.0
+        },
+        {
+            "ItemDescription": "cigars shawnee logo",
+            "TotalSaleAmount": 261.0
+        },
+        {
+            "ItemDescription": "pinnacle logo jar",
+            "TotalSaleAmount": 256.0
+        },
+        {
+            "ItemDescription": "footgolf weekday regular",
+            "TotalSaleAmount": 252.0
+        },
+        {
+            "ItemDescription": "titleist collegiate fitted 2015",
+            "TotalSaleAmount": 252.0
+        },
+        {
+            "ItemDescription": "hot sausage",
+            "TotalSaleAmount": 250.0
+        },
+        {
+            "ItemDescription": "miller lite/ coors lite (pint)",
+            "TotalSaleAmount": 248.0
+        },
+        {
+            "ItemDescription": "misc. cart",
+            "TotalSaleAmount": 245.0
+        },
+        {
+            "ItemDescription": "chip - $1",
+            "TotalSaleAmount": 243.0
+        },
+        {
+            "ItemDescription": "titleist dt  solo - dz",
+            "TotalSaleAmount": 240.0
+        },
+        {
+            "ItemDescription": "footgolf weekday senior/jr/twilight",
+            "TotalSaleAmount": 238.0
+        },
+        {
+            "ItemDescription": "coors light pint 6-pack $14.75",
+            "TotalSaleAmount": 238.0
+        },
+        {
+            "ItemDescription": "specialty 6pack $14.50",
+            "TotalSaleAmount": 238.0
+        },
+        {
+            "ItemDescription": "champ fly tee",
+            "TotalSaleAmount": 237.0
+        },
+        {
+            "ItemDescription": "titleist 816 hybrid",
+            "TotalSaleAmount": 235.0
+        },
+        {
+            "ItemDescription": "footjoy shirt",
+            "TotalSaleAmount": 235.0
+        },
+        {
+            "ItemDescription": "titleist velocity- dz",
+            "TotalSaleAmount": 232.0
+        },
+        {
+            "ItemDescription": "turkey or ham sandwich",
+            "TotalSaleAmount": 228.0
+        },
+        {
+            "ItemDescription": "sobe vitamin water",
+            "TotalSaleAmount": 222.0
+        },
+        {
+            "ItemDescription": "footjoy weathersof 2pack gloves",
+            "TotalSaleAmount": 220.0
+        },
+        {
+            "ItemDescription": "titleist uk/ul hat",
+            "TotalSaleAmount": 220.0
+        },
+        {
+            "ItemDescription": "polish sausage",
+            "TotalSaleAmount": 214.0
+        },
+        {
+            "ItemDescription": "pimiento cheese",
+            "TotalSaleAmount": 213.0
+        },
+        {
+            "ItemDescription": "bud products 6pack $11",
+            "TotalSaleAmount": 209.0
+        },
+        {
+            "ItemDescription": "titleist cap shawnee logo",
+            "TotalSaleAmount": 206.0
+        },
+        {
+            "ItemDescription": "turkey or ham w/cheese",
+            "TotalSaleAmount": 204.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour   or s- dz",
+            "TotalSaleAmount": 202.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour sleeve",
+            "TotalSaleAmount": 198.0
+        },
+        {
+            "ItemDescription": "misc food $9",
+            "TotalSaleAmount": 198.0
+        },
+        {
+            "ItemDescription": "16 oz ultra 6pack $15.00",
+            "TotalSaleAmount": 195.0
+        },
+        {
+            "ItemDescription": "fountain - small",
+            "TotalSaleAmount": 192.0
+        },
+        {
+            "ItemDescription": "ray cook putters",
+            "TotalSaleAmount": 191.0
+        },
+        {
+            "ItemDescription": "southern in srs $19.00",
+            "TotalSaleAmount": 190.0
+        },
+        {
+            "ItemDescription": "leinekugel beer",
+            "TotalSaleAmount": 190.0
+        },
+        {
+            "ItemDescription": "wd discount book green fee",
+            "TotalSaleAmount": 189.0
+        },
+        {
+            "ItemDescription": "fountain - medium",
+            "TotalSaleAmount": 186.0
+        },
+        {
+            "ItemDescription": "footgolf weekend twilight",
+            "TotalSaleAmount": 182.0
+        },
+        {
+            "ItemDescription": "tees",
+            "TotalSaleAmount": 181.0
+        },
+        {
+            "ItemDescription": "titleist bond tech hat",
+            "TotalSaleAmount": 180.0
+        },
+        {
+            "ItemDescription": "clubhouse rental - employee",
+            "TotalSaleAmount": 180.0
+        },
+        {
+            "ItemDescription": "taylor made caps",
+            "TotalSaleAmount": 176.0
+        },
+        {
+            "ItemDescription": "snyders pretzel pieces",
+            "TotalSaleAmount": 176.0
+        },
+        {
+            "ItemDescription": "tees - 50pack",
+            "TotalSaleAmount": 171.0
+        },
+        {
+            "ItemDescription": "chicken salad basket",
+            "TotalSaleAmount": 168.0
+        },
+        {
+            "ItemDescription": "family golf fee",
+            "TotalSaleAmount": 168.0
+        },
+        {
+            "ItemDescription": "family golf cart fee",
+            "TotalSaleAmount": 168.0
+        },
+        {
+            "ItemDescription": "tee time winter",
+            "TotalSaleAmount": 168.0
+        },
+        {
+            "ItemDescription": "tee time weekday 12-4 pm",
+            "TotalSaleAmount": 161.0
+        },
+        {
+            "ItemDescription": "titleist velocity sleeve",
+            "TotalSaleAmount": 160.0
+        },
+        {
+            "ItemDescription": "kodiak winter gloves",
+            "TotalSaleAmount": 160.0
+        },
+        {
+            "ItemDescription": "berrmuda sands logo shirt",
+            "TotalSaleAmount": 160.0
+        },
+        {
+            "ItemDescription": "hornungs tees 30ct /50ct",
+            "TotalSaleAmount": 158.0
+        },
+        {
+            "ItemDescription": "puma men's golf ace shoe",
+            "TotalSaleAmount": 158.0
+        },
+        {
+            "ItemDescription": "cakes",
+            "TotalSaleAmount": 157.0
+        },
+        {
+            "ItemDescription": "meat loaf",
+            "TotalSaleAmount": 156.0
+        },
+        {
+            "ItemDescription": "footgolf ball rental",
+            "TotalSaleAmount": 154.0
+        },
+        {
+            "ItemDescription": "puma caps",
+            "TotalSaleAmount": 154.0
+        },
+        {
+            "ItemDescription": "microfiber greens towel",
+            "TotalSaleAmount": 152.0
+        },
+        {
+            "ItemDescription": "pretzels",
+            "TotalSaleAmount": 151.0
+        },
+        {
+            "ItemDescription": "odyssey rx white hot putter",
+            "TotalSaleAmount": 150.0
+        },
+        {
+            "ItemDescription": "handicap fee",
+            "TotalSaleAmount": 150.0
+        },
+        {
+            "ItemDescription": "titleist cart bag 9.5",
+            "TotalSaleAmount": 150.0
+        },
+        {
+            "ItemDescription": "pride professional tee 100ct &75ct",
+            "TotalSaleAmount": 147.0
+        },
+        {
+            "ItemDescription": "ice cream $2.50",
+            "TotalSaleAmount": 146.0
+        },
+        {
+            "ItemDescription": "nature valley",
+            "TotalSaleAmount": 146.0
+        },
+        {
+            "ItemDescription": "bud light pint",
+            "TotalSaleAmount": 144.0
+        },
+        {
+            "ItemDescription": "titleist velocity slv",
+            "TotalSaleAmount": 144.0
+        },
+        {
+            "ItemDescription": "hot dog with chili",
+            "TotalSaleAmount": 140.0
+        },
+        {
+            "ItemDescription": "winn dri-tac ladies",
+            "TotalSaleAmount": 140.0
+        },
+        {
+            "ItemDescription": "callaway chev stand bag",
+            "TotalSaleAmount": 140.0
+        },
+        {
+            "ItemDescription": "misc food $.30 or $.60",
+            "TotalSaleAmount": 138.0
+        },
+        {
+            "ItemDescription": "new balance ladies minimus sports",
+            "TotalSaleAmount": 135.0
+        },
+        {
+            "ItemDescription": "callaway cap adj",
+            "TotalSaleAmount": 132.0
+        },
+        {
+            "ItemDescription": "$14.00 cart fee",
+            "TotalSaleAmount": 130.0
+        },
+        {
+            "ItemDescription": "ham w/cheese",
+            "TotalSaleAmount": 129.0
+        },
+        {
+            "ItemDescription": "beer 6pack stella",
+            "TotalSaleAmount": 128.0
+        },
+        {
+            "ItemDescription": "we discount book green fee",
+            "TotalSaleAmount": 126.0
+        },
+        {
+            "ItemDescription": "can - drink",
+            "TotalSaleAmount": 123.0
+        },
+        {
+            "ItemDescription": "pull cart 18",
+            "TotalSaleAmount": 123.0
+        },
+        {
+            "ItemDescription": "titleist stadry hat",
+            "TotalSaleAmount": 123.0
+        },
+        {
+            "ItemDescription": "sausage egg & cheese",
+            "TotalSaleAmount": 122.0
+        },
+        {
+            "ItemDescription": "spectator cart $10.00",
+            "TotalSaleAmount": 120.0
+        },
+        {
+            "ItemDescription": "nike all weather glove",
+            "TotalSaleAmount": 120.0
+        },
+        {
+            "ItemDescription": "footjoy prodry socks 2pack",
+            "TotalSaleAmount": 120.0
+        },
+        {
+            "ItemDescription": "half sandwich",
+            "TotalSaleAmount": 120.0
+        },
+        {
+            "ItemDescription": "hot chocolate",
+            "TotalSaleAmount": 119.0
+        },
+        {
+            "ItemDescription": "combos",
+            "TotalSaleAmount": 118.0
+        },
+        {
+            "ItemDescription": "ice cream $2.25",
+            "TotalSaleAmount": 116.0
+        },
+        {
+            "ItemDescription": "16oz or 12 oz kick starts only $2.50",
+            "TotalSaleAmount": 116.0
+        },
+        {
+            "ItemDescription": "nike air rival lll sale",
+            "TotalSaleAmount": 115.0
+        },
+        {
+            "ItemDescription": "champ stinger spikes",
+            "TotalSaleAmount": 113.0
+        },
+        {
+            "ItemDescription": "titleist cubic mesh hat",
+            "TotalSaleAmount": 112.0
+        },
+        {
+            "ItemDescription": "titleist jersey hat",
+            "TotalSaleAmount": 112.0
+        },
+        {
+            "ItemDescription": "titleist nxt tour s dozen (yellow)",
+            "TotalSaleAmount": 111.0
+        },
+        {
+            "ItemDescription": "hornungs golf tees",
+            "TotalSaleAmount": 111.0
+        },
+        {
+            "ItemDescription": "callaway cg bucket hat",
+            "TotalSaleAmount": 110.0
+        },
+        {
+            "ItemDescription": "juice/ sobe lifewater",
+            "TotalSaleAmount": 110.0
+        },
+        {
+            "ItemDescription": "sausage egg cheese",
+            "TotalSaleAmount": 108.0
+        },
+        {
+            "ItemDescription": "titleist dt  solo slv",
+            "TotalSaleAmount": 105.0
+        },
+        {
+            "ItemDescription": "beer 6pack dos equis",
+            "TotalSaleAmount": 104.0
+        },
+        {
+            "ItemDescription": "kick start energy drink",
+            "TotalSaleAmount": 102.0
+        },
+        {
+            "ItemDescription": "sausage or bacon biscuit",
+            "TotalSaleAmount": 102.0
+        },
+        {
+            "ItemDescription": "dryjoys casuals golf shoes",
+            "TotalSaleAmount": 100.0
+        },
+        {
+            "ItemDescription": "footjoy hydrolite shoe",
+            "TotalSaleAmount": 99.0
+        },
+        {
+            "ItemDescription": "sr/twilight 18 cart",
+            "TotalSaleAmount": 99.0
+        },
+        {
+            "ItemDescription": "gift card",
+            "TotalSaleAmount": 99.0
+        },
+        {
+            "ItemDescription": "coffee large 16 oz",
+            "TotalSaleAmount": 98.0
+        },
+        {
+            "ItemDescription": "michelob ultra 6pack",
+            "TotalSaleAmount": 96.0
+        },
+        {
+            "ItemDescription": "pull cart 9",
+            "TotalSaleAmount": 96.0
+        },
+        {
+            "ItemDescription": "golf cart rider fee",
+            "TotalSaleAmount": 95.0
+        },
+        {
+            "ItemDescription": "ping zing putter",
+            "TotalSaleAmount": 95.0
+        },
+        {
+            "ItemDescription": "bologna w cheese",
+            "TotalSaleAmount": 93.0
+        },
+        {
+            "ItemDescription": "sierra nevada",
+            "TotalSaleAmount": 92.0
+        },
+        {
+            "ItemDescription": "range teaching basket",
+            "TotalSaleAmount": 90.0
+        },
+        {
+            "ItemDescription": "sale caps",
+            "TotalSaleAmount": 90.0
+        },
+        {
+            "ItemDescription": "titleist velocity dozen",
+            "TotalSaleAmount": 90.0
+        },
+        {
+            "ItemDescription": "titleist microfiber towel",
+            "TotalSaleAmount": 88.0
+        },
+        {
+            "ItemDescription": "golf pride tour velvet jumbo grip",
+            "TotalSaleAmount": 88.0
+        },
+        {
+            "ItemDescription": "stella artois",
+            "TotalSaleAmount": 87.0
+        },
+        {
+            "ItemDescription": "footjoy ladies mproject shoes",
+            "TotalSaleAmount": 87.0
+        },
+        {
+            "ItemDescription": "miscellaneous- merch.",
+            "TotalSaleAmount": 84.0
+        },
+        {
+            "ItemDescription": "new balance minimus sport shoe",
+            "TotalSaleAmount": 84.0
+        },
+        {
+            "ItemDescription": "titleist beanie winter hat",
+            "TotalSaleAmount": 84.0
+        },
+        {
+            "ItemDescription": "callaway chrome soft dz",
+            "TotalSaleAmount": 82.0
+        },
+        {
+            "ItemDescription": "can soft drink",
+            "TotalSaleAmount": 82.0
+        },
+        {
+            "ItemDescription": "footgolf matinee 4-6",
+            "TotalSaleAmount": 81.0
+        },
+        {
+            "ItemDescription": "ping caps",
+            "TotalSaleAmount": 81.0
+        },
+        {
+            "ItemDescription": "winn pro 1.60",
+            "TotalSaleAmount": 81.0
+        },
+        {
+            "ItemDescription": "groove tube",
+            "TotalSaleAmount": 80.0
+        },
+        {
+            "ItemDescription": "spectator cart $5.00",
+            "TotalSaleAmount": 80.0
+        },
+        {
+            "ItemDescription": "miscellaneous  -men's apparel",
+            "TotalSaleAmount": 80.0
+        },
+        {
+            "ItemDescription": "titleist golf hat",
+            "TotalSaleAmount": 79.0
+        },
+        {
+            "ItemDescription": "titleist  caps",
+            "TotalSaleAmount": 76.0
+        },
+        {
+            "ItemDescription": "golf shoes",
+            "TotalSaleAmount": 75.0
+        },
+        {
+            "ItemDescription": "ping camo hat",
+            "TotalSaleAmount": 75.0
+        },
+        {
+            "ItemDescription": "nike lunar empress ldies shoe",
+            "TotalSaleAmount": 75.0
+        },
+        {
+            "ItemDescription": "sale short sleeve windshirt",
+            "TotalSaleAmount": 73.0
+        },
+        {
+            "ItemDescription": "star wars head cover",
+            "TotalSaleAmount": 72.0
+        },
+        {
+            "ItemDescription": "hot dog with cheese",
+            "TotalSaleAmount": 72.0
+        },
+        {
+            "ItemDescription": "golf pride cp2 pro/ super tack midsize",
+            "TotalSaleAmount": 72.0
+        },
+        {
+            "ItemDescription": "winnpro 1.32 & 1.18 putter grip",
+            "TotalSaleAmount": 72.0
+        },
+        {
+            "ItemDescription": "winter gloves",
+            "TotalSaleAmount": 71.0
+        },
+        {
+            "ItemDescription": "wd junior annual",
+            "TotalSaleAmount": 70.0
+        },
+        {
+            "ItemDescription": "hothands",
+            "TotalSaleAmount": 70.0
+        },
+        {
+            "ItemDescription": "footjoy shorts",
+            "TotalSaleAmount": 70.0
+        },
+        {
+            "ItemDescription": "monterey club men's polo",
+            "TotalSaleAmount": 70.0
+        },
+        {
+            "ItemDescription": "hot dog with chili & cheese",
+            "TotalSaleAmount": 69.0
+        },
+        {
+            "ItemDescription": "team golf headcover 3-pack",
+            "TotalSaleAmount": 68.0
+        },
+        {
+            "ItemDescription": "ping bonnie hat",
+            "TotalSaleAmount": 68.0
+        },
+        {
+            "ItemDescription": "pinnacle gold slv",
+            "TotalSaleAmount": 66.0
+        },
+        {
+            "ItemDescription": "nike mojo balls dbl. dozen",
+            "TotalSaleAmount": 66.0
+        },
+        {
+            "ItemDescription": "beer league 16oz - 6pack - $13",
+            "TotalSaleAmount": 65.0
+        },
+        {
+            "ItemDescription": "footjoy m:project golf shoes",
+            "TotalSaleAmount": 65.0
+        },
+        {
+            "ItemDescription": "nike dri-fit no show socks",
+            "TotalSaleAmount": 64.0
+        },
+        {
+            "ItemDescription": "cigarettes",
+            "TotalSaleAmount": 63.0
+        },
+        {
+            "ItemDescription": "amp/rockstar",
+            "TotalSaleAmount": 63.0
+        },
+        {
+            "ItemDescription": "sausage and egg biscuit",
+            "TotalSaleAmount": 60.0
+        },
+        {
+            "ItemDescription": "sale monterey ladies tops",
+            "TotalSaleAmount": 60.0
+        },
+        {
+            "ItemDescription": "coors light 6pack special",
+            "TotalSaleAmount": 60.0
+        },
+        {
+            "ItemDescription": "seneca hat clip",
+            "TotalSaleAmount": 60.0
+        },
+        {
+            "ItemDescription": "guinness/stella 6pack",
+            "TotalSaleAmount": 60.0
+        },
+        {
+            "ItemDescription": "footjoy m-projects spikeless golf shoe",
+            "TotalSaleAmount": 57.0
+        },
+        {
+            "ItemDescription": "16oz amp only",
+            "TotalSaleAmount": 57.0
+        },
+        {
+            "ItemDescription": "can drink -12oz",
+            "TotalSaleAmount": 57.0
+        },
+        {
+            "ItemDescription": "dbl cheese burger",
+            "TotalSaleAmount": 55.0
+        },
+        {
+            "ItemDescription": "miscellaneous  - golf balls",
+            "TotalSaleAmount": 54.0
+        },
+        {
+            "ItemDescription": "kickstart",
+            "TotalSaleAmount": 54.0
+        },
+        {
+            "ItemDescription": "par 3 18 hole cart",
+            "TotalSaleAmount": 54.0
+        },
+        {
+            "ItemDescription": "titleist winter hat pom pom",
+            "TotalSaleAmount": 53.0
+        },
+        {
+            "ItemDescription": "ping diamond towel",
+            "TotalSaleAmount": 52.0
+        },
+        {
+            "ItemDescription": "rain gear",
+            "TotalSaleAmount": 51.0
+        },
+        {
+            "ItemDescription": "power bilt drivers",
+            "TotalSaleAmount": 51.0
+        },
+        {
+            "ItemDescription": "titleist ear bands",
+            "TotalSaleAmount": 51.0
+        },
+        {
+            "ItemDescription": "footjoy m:project golf shoes 2015",
+            "TotalSaleAmount": 50.0
+        },
+        {
+            "ItemDescription": "footjoy junior gloves",
+            "TotalSaleAmount": 50.0
+        },
+        {
+            "ItemDescription": "titleist tour performance hat",
+            "TotalSaleAmount": 50.0
+        },
+        {
+            "ItemDescription": "sale shawnee logo straw hat",
+            "TotalSaleAmount": 49.0
+        },
+        {
+            "ItemDescription": "ping patch structured hat",
+            "TotalSaleAmount": 48.0
+        },
+        {
+            "ItemDescription": "bologna and cheese",
+            "TotalSaleAmount": 48.0
+        },
+        {
+            "ItemDescription": "footjoy contour casual",
+            "TotalSaleAmount": 47.0
+        },
+        {
+            "ItemDescription": "seneca logo hats",
+            "TotalSaleAmount": 47.0
+        },
+        {
+            "ItemDescription": "maintenance misc. food",
+            "TotalSaleAmount": 46.0
+        },
+        {
+            "ItemDescription": "ice cream",
+            "TotalSaleAmount": 46.0
+        },
+        {
+            "ItemDescription": "team golf millitary towel",
+            "TotalSaleAmount": 45.0
+        },
+        {
+            "ItemDescription": "footjoy junior shoes",
+            "TotalSaleAmount": 45.0
+        },
+        {
+            "ItemDescription": "hornungs umbrella",
+            "TotalSaleAmount": 45.0
+        },
+        {
+            "ItemDescription": "titleist winter earmuffs",
+            "TotalSaleAmount": 42.0
+        },
+        {
+            "ItemDescription": "ice cream $1.50",
+            "TotalSaleAmount": 41.0
+        },
+        {
+            "ItemDescription": "pride professional 4 inch tee",
+            "TotalSaleAmount": 40.0
+        },
+        {
+            "ItemDescription": "ping g25 structured hat",
+            "TotalSaleAmount": 40.0
+        },
+        {
+            "ItemDescription": "$10 6-pack special",
+            "TotalSaleAmount": 40.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof 3pack",
+            "TotalSaleAmount": 40.0
+        },
+        {
+            "ItemDescription": "titleist pompom hat",
+            "TotalSaleAmount": 39.0
+        },
+        {
+            "ItemDescription": "ice cream $1.25",
+            "TotalSaleAmount": 36.0
+        },
+        {
+            "ItemDescription": "turkey",
+            "TotalSaleAmount": 36.0
+        },
+        {
+            "ItemDescription": "$4 food special 1",
+            "TotalSaleAmount": 36.0
+        },
+        {
+            "ItemDescription": "sun mountain thermal red",
+            "TotalSaleAmount": 35.0
+        },
+        {
+            "ItemDescription": "martini tee",
+            "TotalSaleAmount": 35.0
+        },
+        {
+            "ItemDescription": "hot dog w cheese",
+            "TotalSaleAmount": 34.0
+        },
+        {
+            "ItemDescription": "pinnacle gold 15pack",
+            "TotalSaleAmount": 34.0
+        },
+        {
+            "ItemDescription": "2 for 20 gloves",
+            "TotalSaleAmount": 33.0
+        },
+        {
+            "ItemDescription": "corona/corona light",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "champ pro soft brush",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "titleist cart mitts",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "ping golf glove",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "titleist needle point bucket hat",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "titleist aussie hat",
+            "TotalSaleAmount": 32.0
+        },
+        {
+            "ItemDescription": "majek sandals",
+            "TotalSaleAmount": 31.0
+        },
+        {
+            "ItemDescription": "ball eagle retriever",
+            "TotalSaleAmount": 31.0
+        },
+        {
+            "ItemDescription": "titleist back sack",
+            "TotalSaleAmount": 30.0
+        },
+        {
+            "ItemDescription": "sale shawnee logo bucket",
+            "TotalSaleAmount": 30.0
+        },
+        {
+            "ItemDescription": "2016 montery polo",
+            "TotalSaleAmount": 30.0
+        },
+        {
+            "ItemDescription": "titleist umbrella",
+            "TotalSaleAmount": 28.0
+        },
+        {
+            "ItemDescription": "pork loin sandwich",
+            "TotalSaleAmount": 28.0
+        },
+        {
+            "ItemDescription": "hornungs groove brush",
+            "TotalSaleAmount": 27.0
+        },
+        {
+            "ItemDescription": "team golf putter cover",
+            "TotalSaleAmount": 26.0
+        },
+        {
+            "ItemDescription": "sofjoy glove",
+            "TotalSaleAmount": 26.0
+        },
+        {
+            "ItemDescription": "titleist bucket hat",
+            "TotalSaleAmount": 26.0
+        },
+        {
+            "ItemDescription": "$1.50 16 oz drink",
+            "TotalSaleAmount": 25.0
+        },
+        {
+            "ItemDescription": "locker fee",
+            "TotalSaleAmount": 25.0
+        },
+        {
+            "ItemDescription": "titleist contrast stitch hat",
+            "TotalSaleAmount": 25.0
+        },
+        {
+            "ItemDescription": "grips never bend putter",
+            "TotalSaleAmount": 25.0
+        },
+        {
+            "ItemDescription": "special order - mens apparel",
+            "TotalSaleAmount": 25.0
+        },
+        {
+            "ItemDescription": "winter jr fee",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "callaway sport hat",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "winter jr green fee",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "family golf cart",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "green fee special event",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "titleist towel players",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "hornungs groove tube",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "$6.00 lunch special",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "ping hat clips",
+            "TotalSaleAmount": 24.0
+        },
+        {
+            "ItemDescription": "titleist towel staff",
+            "TotalSaleAmount": 23.0
+        },
+        {
+            "ItemDescription": "lime-a-rita",
+            "TotalSaleAmount": 22.0
+        },
+        {
+            "ItemDescription": "footjoy rain gloves",
+            "TotalSaleAmount": 22.0
+        },
+        {
+            "ItemDescription": "titleist visors",
+            "TotalSaleAmount": 22.0
+        },
+        {
+            "ItemDescription": "ping kp cap",
+            "TotalSaleAmount": 21.0
+        },
+        {
+            "ItemDescription": "towels",
+            "TotalSaleAmount": 21.0
+        },
+        {
+            "ItemDescription": "titleist dt solo sleeve",
+            "TotalSaleAmount": 21.0
+        },
+        {
+            "ItemDescription": "titleist qmax hat",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "titleistt hand warmer",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "-  9 holes",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "maxx sunglasses",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "ping visor",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "miscellaneous  -shoes",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "coffee - large",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "nyx kele sunglasses",
+            "TotalSaleAmount": 20.0
+        },
+        {
+            "ItemDescription": "titleist winter hat striped",
+            "TotalSaleAmount": 19.0
+        },
+        {
+            "ItemDescription": "ham sandwich",
+            "TotalSaleAmount": 18.0
+        },
+        {
+            "ItemDescription": "michelob ultra",
+            "TotalSaleAmount": 18.0
+        },
+        {
+            "ItemDescription": "ping tri fold towel",
+            "TotalSaleAmount": 18.0
+        },
+        {
+            "ItemDescription": "ping lady sport visor",
+            "TotalSaleAmount": 18.0
+        },
+        {
+            "ItemDescription": "golf pride tour wrap 2g blue/black",
+            "TotalSaleAmount": 16.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof socks(black)",
+            "TotalSaleAmount": 15.0
+        },
+        {
+            "ItemDescription": "titleist visor men",
+            "TotalSaleAmount": 15.0
+        },
+        {
+            "ItemDescription": "rain hood clear pvc",
+            "TotalSaleAmount": 14.0
+        },
+        {
+            "ItemDescription": "spikes",
+            "TotalSaleAmount": 14.0
+        },
+        {
+            "ItemDescription": "golf pride cp2 wrap (midsize)",
+            "TotalSaleAmount": 13.0
+        },
+        {
+            "ItemDescription": "twist-off beer 6 pack $13",
+            "TotalSaleAmount": 13.0
+        },
+        {
+            "ItemDescription": "$2.00 beer",
+            "TotalSaleAmount": 12.0
+        },
+        {
+            "ItemDescription": "taylormade spiort stratus glove",
+            "TotalSaleAmount": 12.0
+        },
+        {
+            "ItemDescription": "misc food item $1.75",
+            "TotalSaleAmount": 11.0
+        },
+        {
+            "ItemDescription": "us kids golf glove",
+            "TotalSaleAmount": 11.0
+        },
+        {
+            "ItemDescription": "nike dri-fit  crew socks",
+            "TotalSaleAmount": 10.0
+        },
+        {
+            "ItemDescription": "muffins",
+            "TotalSaleAmount": 10.0
+        },
+        {
+            "ItemDescription": "powerbilt junior gloves",
+            "TotalSaleAmount": 10.0
+        },
+        {
+            "ItemDescription": "us tour glove",
+            "TotalSaleAmount": 9.0
+        },
+        {
+            "ItemDescription": "bionic glove",
+            "TotalSaleAmount": 9.0
+        },
+        {
+            "ItemDescription": "misc cart rental",
+            "TotalSaleAmount": 9.0
+        },
+        {
+            "ItemDescription": "cigar 8.90 romeo & julieta",
+            "TotalSaleAmount": 9.0
+        },
+        {
+            "ItemDescription": "deli sandwich",
+            "TotalSaleAmount": 8.0
+        },
+        {
+            "ItemDescription": "dbl hamburger",
+            "TotalSaleAmount": 8.0
+        },
+        {
+            "ItemDescription": "champ spike pro wrench",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "cheese burger double decker",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "egg sandwich",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "golfer's sun screen",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "pb&j or cheese sandwich",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "tees-30pack",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "comfort sof crew socks",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "mikes hard lemonade",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "shawnee pepper dog",
+            "TotalSaleAmount": 6.0
+        },
+        {
+            "ItemDescription": "golfer's lips chap stick",
+            "TotalSaleAmount": 5.0
+        },
+        {
+            "ItemDescription": "footjoy comfort sof women",
+            "TotalSaleAmount": 5.0
+        },
+        {
+            "ItemDescription": "line m up ball marker",
+            "TotalSaleAmount": 4.0
+        },
+        {
+            "ItemDescription": "donuts",
+            "TotalSaleAmount": 4.0
+        },
+        {
+            "ItemDescription": "soup",
+            "TotalSaleAmount": 4.0
+        },
+        {
+            "ItemDescription": "pimento salad basket",
+            "TotalSaleAmount": 3.0
+        },
+        {
+            "ItemDescription": "pure leaf tea",
+            "TotalSaleAmount": 2.0
+        },
+        {
+            "ItemDescription": "tees $1",
+            "TotalSaleAmount": 2.0
+        },
+        {
+            "ItemDescription": "misc. food $8",
+            "TotalSaleAmount": 2.0
+        },
+        {
+            "ItemDescription": "can drink",
+            "TotalSaleAmount": 2.0
+        },
+        {
+            "ItemDescription": "tom's chip",
+            "TotalSaleAmount": 1.0
+        },
+        {
+            "ItemDescription": "chip - $1.50",
+            "TotalSaleAmount": 1.0
+        },
+        {
+            "ItemDescription": "yoohoo",
+            "TotalSaleAmount": 1.0
+        },
+        {
+            "ItemDescription": "socks",
+            "TotalSaleAmount": 1.0
+        },
+        {
+            "ItemDescription": "beer stella& goose lsl. cherry cola",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "extra cheese",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "coffee sm",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "cup",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "cup ice or water",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "cup ice water",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "cup of water - large",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "cup of water - sm or med.",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "drink - refill",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "ice water large",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "master preview louis mcdonald",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": ".25 candy",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "no sale",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "ice water",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "ice",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "gum",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "granola bars",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "gift certificate",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "youth course free (below 13)",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "gift cert / rain check cart",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "nan",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "oatmeal cream pies",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "nutri-grain",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "beer3.25 stella& gooseipa& cherry cola",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "tees small bag 15 pk",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "tees $0.75",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "tees $0.50",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "staff hamburgers",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "staff dogs",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "shawnee logo divot tool",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "reserved tee times",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "tylenol 2 pks",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "regular outing",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "$0.25 extra",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "chip - $0.75",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "raincheck redeemed",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "raincheck",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "rain check cart 9 $6.00 issued",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "banana",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "rain check cart 18 issued",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "ball markers 3 for.25 cents",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "rain check cart",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "coffee - small",
+            "TotalSaleAmount": 0.0
+        },
+        {
+            "ItemDescription": "staff fee",
+            "TotalSaleAmount": -72.0
+        },
+        {
+            "ItemDescription": "key refund",
+            "TotalSaleAmount": -14569.0
+        }
+    ]
+}
