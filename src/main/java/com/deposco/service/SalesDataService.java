@@ -1,5 +1,6 @@
 package com.deposco.service;
 
+
 import com.deposco.model.MonthlySalesData;
 import com.deposco.model.SalesAmountData;
 import com.deposco.model.SalesQuantityData;
@@ -14,39 +15,43 @@ import java.util.List;
 
 @Service
 public class SalesDataService {
-    @Value("classpath:data/sales_data.json")
-    private Resource dataFile;
-
     private final ObjectMapper mapper;
+    private final Resource dataFile;
+    private SalesWrapper cachedData;
 
     @Autowired
-    public SalesDataService(ObjectMapper mapper) {
+    public SalesDataService(ObjectMapper mapper, @Value("classpath:data/sales_data.json") Resource dataFile) {
         this.mapper = mapper;
+        this.dataFile = dataFile;
+        this.cachedData = loadSalesData();
     }
 
-    public double calculateTotalSalesAmount() throws IOException {
-        SalesWrapper data = mapper.readValue(dataFile.getFile(), SalesWrapper.class);
-        return data.getTotalSalesAmount();
+    private SalesWrapper loadSalesData() {
+        try {
+            return mapper.readValue(dataFile.getFile(), SalesWrapper.class);
+        } catch (IOException e) {
+            throw new RuntimeException("Failed to load sales data from file", e);
+        }
     }
 
-    public double calculateTotalSalesQuantity() throws IOException {
-        SalesWrapper data = mapper.readValue(dataFile.getFile(), SalesWrapper.class);
-        return data.getTotalSalesQuantity();
+    public double calculateTotalSalesAmount() {
+        return cachedData.getTotalSalesAmount();
     }
 
-    public List<SalesQuantityData> getBestSellingProductsByQuantity() throws IOException {
-        SalesWrapper data = mapper.readValue(dataFile.getFile(), SalesWrapper.class);
-        return data.getBestSellingByQuantity();
+    public double calculateTotalSalesQuantity() {
+        return cachedData.getTotalSalesQuantity();
     }
 
-    public List<SalesAmountData> getBestSellingProductsByAmount() throws IOException {
-        SalesWrapper data = mapper.readValue(dataFile.getFile(), SalesWrapper.class);
-        return data.getBestSellingByAmount();
+    public List<SalesQuantityData> getBestSellingProductsByQuantity() {
+        return cachedData.getBestSellingByQuantity();
     }
 
-    public List<MonthlySalesData> getMonthlySalesTrends() throws IOException {
-        SalesWrapper data = mapper.readValue(dataFile.getFile(), SalesWrapper.class);
-        return data.getMonthlySales();
+    public List<SalesAmountData> getBestSellingProductsByAmount() {
+        return cachedData.getBestSellingByAmount();
+    }
+
+    public List<MonthlySalesData> getMonthlySalesTrends() {
+        return cachedData.getMonthlySales();
     }
 
     public static class SalesWrapper {
@@ -55,10 +60,6 @@ public class SalesDataService {
         private List<SalesQuantityData> bestSellingByQuantity;
         private List<SalesAmountData> bestSellingByAmount;
         private List<MonthlySalesData> monthlySales;
-
-        // Constructors, getters, and setters below
-        public SalesWrapper() {
-        }
 
         public double getTotalSalesAmount() {
             return totalSalesAmount;
