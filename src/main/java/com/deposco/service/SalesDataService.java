@@ -80,12 +80,24 @@ public class SalesDataService {
             return bestSellingByQuantity;
         }
 
+        public void setBestSellingByQuantity(List<SalesQuantityData> bestSellingByQuantity) {
+            this.bestSellingByQuantity = bestSellingByQuantity;
+        }
+
         public List<SalesAmountData> getBestSellingByAmount() {
             return bestSellingByAmount;
         }
 
+        public void setBestSellingByAmount(List<SalesAmountData> bestSellingByAmount) {
+            this.bestSellingByAmount = bestSellingByAmount;
+        }
+
         public List<MonthlySalesData> getMonthlySales() {
             return monthlySales;
+        }
+
+        public void setMonthlySales(List<MonthlySalesData> monthlySales) {
+            this.monthlySales = monthlySales;
         }
     }
 }
